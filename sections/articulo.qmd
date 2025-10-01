@@ -83,6 +83,25 @@
     Guadalupe Huelsz Lesbros, and Guillermo Barrios Vivienda y
     Comunidades Sustentables, 2023.
 
+19.  JM Ochoa, I. Marincic, G. Huelsz, G. Barrios, 
+    Transferencia dinámica de calor en muros de block hueco en una vivienda 
+    con ventilación natural. Vivienda y comunidades sustentables (7) 14, 2023.
+
+20. J. Landa, G. Barrios, G. Huelsz, IoT smartwatch based on open technologies for
+    the collection of thermal comfort data, HardwareX, 2025.
+
+21. G. Ramírez, G. Barrios, G. Huelsz, HD. Cortés, Diseño, construcción y 
+    caracterización de un monitor de CO2 para la calidad del aire de interiores
+    y ventilación, compatible con tres sensores, con integración IoT, autoprueba
+    y autodiagnóstico. Pistas Educativas 149, 2025.
+
+22. G. Barrios. Enseñar a programar en la era de la IA generativa. Revista
+    mexicana de Bachillerato a distancia, 34(17), 2025.
+
+
+
+
+
 ### Artículos de congresos indizados por el *ISI Web of Knowledge*
 
 1.  I. Santamaria-Holek, G. Barrios, JM. Rubi, Transition to

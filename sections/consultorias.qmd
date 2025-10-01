@@ -24,3 +24,12 @@
     del proyecto: Dr. Jorge Rojas. Mi participación consistió en revisar
     el análisis de datos de viento, revisar las simulaciones y analizar
     los resultados de las propuestas hechas.
+
+6. Asesoría-Diagnóstico y recomendaciones cualitativas del edificio de Ingenierias
+    y construcción del Instituto Federal de Telecomunicaciones. G. Huelsz, J. Rojas,
+    G. Barrios, JA Huelsz. Mi participación consistió en la instrumentación, adquisición
+    y análisis de los datos y en las recomendaciones generales. 2024.
+
+7. Reporte de mediciones "Fuerte de Bambú", Las Estacas, Morelos. G. Barrios, M. Cruz.
+    Mi participación consistió en realizar las mediciones, interpretar los resultados
+    y dirigir la realización del reporte. 2025.
