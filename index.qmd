@@ -1,0 +1,52 @@
+---
+title: "Currículum Vitae"
+author: "Guillermo Barrios del Valle"
+date: today
+lang: es
+format:
+  html:
+    toc: true
+    toc-title: "Contenido"
+  pdf:
+    toc: true
+--- 
+
+{{< include sections/dat_per.qmd >}}
+
+{{< include sections/f_prof.qmd >}}
+
+{{< include sections/distin.qmd >}}
+ 
+{{< include sections/articulo.qmd >}}
+
+{{< include sections/patentes.qmd >}}
+
+{{< include sections/estudiantes.qmd >}}
+
+{{< include sections/comites_estudiantes.qmd >}}
+
+{{< include sections/materias.qmd >}}
+
+{{< include sections/consultorias.qmd >}}
+
+{{< include sections/proyectos.qmd >}}
+
+{{< include sections/articulo-nacional.qmd >}}
+
+{{< include sections/capitulos.qmd >}}
+
+{{< include sections/divulgacion.qmd >}}
+
+{{< include sections/apoyo_institucional.qmd >}}
+
+{{< include sections/comisiones.qmd >}}
+
+{{< include sections/estancia.qmd >}}
+
+{{< include sections/citas-v02.qmd >}}
+
+{{< include sections/congreso.qmd >}}
+
+{{< include sections/seminarios.qmd >}}
+
+{{< include sections/arbitraj.qmd >}}
