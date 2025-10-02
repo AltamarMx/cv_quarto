@@ -10,7 +10,7 @@ format:
   pdf:
     toc: true
 --- 
-   
+  
 {{< include sections/001_dat_per.qmd >}}
 
 {{< include sections/002_f_prof.qmd >}}
