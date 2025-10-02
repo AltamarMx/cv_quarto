@@ -1,0 +1,298 @@
+## Seminarios y conferencias magistrales
+
+
+### Seminarios
+
+<div class="list">
+
+
+
+El método de la ecuación de Boltzmann en redes: Convección natural y
+levitación acústica. Centro de Investigación y Estudio de Posgrado,
+Facultad de Ingeniería, Universidad Autónoma de San Luis Potosí, 27 de
+marzo de 2009.
+
+El método de la ecuación de Boltzmann en redes: Convección natural y
+levitación acústica. Facultad de Ciencias, Universidad Autónoma del
+Estado de Morelos, 30 de octubre de 2009.
+
+Interacciones hidrodinámicas en la transición a la irreversibilidad en
+un flujo cortante oscilatorio Posgrado en Ingeniería Química,
+Universidad de Guanajuato, 6 de noviembre de 2009.
+
+Seminario de la Facultad de Ciencias, Uso de MPI en el método de la
+ecuación de Boltzmann en redes, Facultad de Ciencias, UAEM, Cuernavaca,
+Morelos, UAEM, 11 de abril de 2011.
+
+Seminarios del CIByC, Energía en edificaciones: hacia una casa cero
+energía, Centro de Investigación en Biodiversidad y Conservación, UAEM,
+Cuernavaca, Morelos, 1 de julio de 2011.
+
+Seminario del programa de posgrado en ingeniería, Hacia edificaciones
+energía cero en México, Departamento de Ingeniería Química, Universidad
+de Guanajuato, Guanajuato, 12 de agosto de 2011.
+
+Seminarios del posgrado, Métodos numéricos para transferencia de calor y
+masa, Centro de Investigación en Energía, UNAM, Temixco, Morelos, 10 de
+octubre de 2011.
+
+Seminario del departamento de Termociencias, Ener-Habitat, Centro de
+Investigación en Energía, UNAM, Temixco, Morelos, 30 de noviembre de
+2011.
+
+Seminario del Posgrado, Departamento de Ingeniería Química.
+Ener-Habitat: El método numérico detrás de la herramienta para evaluar
+el desempe’no térmico de un muro/techo de una edificación. Universidad
+de Guanajuato, 12 de abril de 2013.
+
+Seminario de Eficiencia Energética en Edificaciones, Departamento de
+Arquitectura y Dise’no, Ener-Habitat: Evaluación térmica de la
+envolvente de edificaciones habitacionales. Universidad de Sonora, 31 de
+febrero de 2013.
+
+Congreso EDUCAREnovables. Energías Renovables: Hacia un futuro
+sustentable. Universidad Autónoma de Durango, Campus Cuernavaca,
+Morelos, 26 de septiembre de 2013.
+
+Feria de Servicios Tecnológicos e Innovaciones en materia de TIC,
+Presentación de Ener-Habitat. Centro Cultural Tlatelolco, Coordinación
+de Innovación y Desarrollo, UNAM, 27 de septiembre de 2013.
+
+Seminario y Taller, Panorama y perspectivas de la eficiencia energética
+en edificaciones, Arquitectura Bioclimática. Importancia de la
+transferencia de calor en edificaciones y como medirla. Universidad
+Autónoma Metropolitana, 15 de noviembre de 2013.
+
+Ener-Habitat: El método numérico detrás de la herramienta. Seminario del
+Posgrado en Ingeniería, 25 de noviembre de 2013.
+
+Interacción en la transferencia de calor en edificaciones, Seminario del
+Posgrado en Ingeniería Química de la División de Ciencias Naturales y
+Exactas, Guanajuato, Guanajuato, 3 de octubre de 2014.
+
+Cómo medir el desempeño térmico de las edificaciones.XVIII Seminario
+Peninsular Uso Eficiente de la Energía Eléctrica, Mérida, Yucatan, 6 y 7
+de noviembre de 2014.
+
+Edificaciones sustentables: El reto y como abordarlo, 24 Ideas que
+Laten, Guanajuato, Gto, 21 y 22 de agosto del 2015.
+
+Simulaciones numéricas para evaluar el desempeño de las edificaciones,
+Fiesta de las ciencias y humanidades, 16 de octubre del 2015, DGDC–UNAM.
+
+El reto de las edificaciones sustentables, Primer Foro de Innovación
+Sustentable, 11 de noviembre del 2015, Universidad Americana de Morelos.
+
+Simulaciones para evaluar el desempeño térmico e iluminación natural en
+edificaciones, Concurso-Taller Centro Comunitario Bioclimático
+Sustentable, 5 y 6 de abril del 2016, Facultad de Arquitectura–IER-UNAM.
+
+Método de capas homogéneas equivalentes para transferencia de calor
+dependiente del tiempo en muros con cavidades de aire, Seminario de los
+Miércoles, 31 de mayo del 2017, Instituto de Energías Renovables, UNAM.
+
+Método de capas homogéneas equivalentes para transferencia de calor
+dependiente del tiempo en muros con cavidades de aire. Seminario
+conjunto Ciencia de Materiales para el Desarrollo Sustentable. Instituto
+de Investigaciones en Materiales y de la Escuela Nacional de Estudios
+Superiores, UNAM. Morelia, 27 de octubre de 2017.
+
+Confort higrotérmico y energía: Grupo Energía en Edificaciones, 3er
+encuentro y 1er congreso internacional "Sustentabilidad energética,
+medioambiente y sociedad". Red SUMAS, 11 al 15 de septiembre 2017,
+Universidad Autónoma de Morelos.
+
+Confort térmico y ahorro de energía en tu casa, Feria de las Ciencias y
+las Humanidades 2017. Dirección General de Divulgación de la Ciencia,
+UNAM.
+
+Modelo simplificado para la transferencia de calor un bloques huecos de
+concreto, Seminario de los Miércoles, 18 de abril del 2018, Instituto de
+Energías Renovables, UNAM.
+
+Análisis de datos para estudiar el comportamiento térmico de
+edificaciones, Seminario del Posgrado de Ingeniería, Instituto de
+Energías Renovables, UNAM. Temixco, Morelos a 12 de noviembre de 2018.
+
+Webinar: Cuánta energía uso al ejercitarme. Serie Webinars Energía en la
+vida cotidiana. Impartido con el Dr. Antonio del Rio en YouTube. 11 de
+junio del 2020.
+
+Webinar: Diseño bioclimático para el confort térmico y ahorro de
+energía. Serie Webinars Energía en la vida cotidiana. Impartido con la
+Dra. Guadalupe Huelsz. 10 de diciembre del 2020.
+
+Transferencia de calor, inteligencia artificial, IoT y microcontroladores, 
+Seminario del Posgrado del IER-UNAM, 23 de agosto de 2021.
+
+
+Prototipado rápido y ciencia libre: Monitor CO2, Seminarios Virtuales
+del Instituto de Energías Renovables, UNAM. 1 de octubre de 2022. Zoom.
+
+Ciencia de datos e IoT aplicado a edificaciones. 22 Escuela de Investigación en Energía, IER-UNAM.
+25 de enero 2022.
+
+Dispositivos libres para generar mapas de iluminancia, Jornadas Peruanas
+de Energía Solar - JOPES 2022. 13 de mayo de 2022, plataforma ZOOM.
+
+Coffee talks:  Un paso hacia el NetZero. D´Talks, Siemens, Ciudad de México.
+24 de febrero de 2022.
+
+Cambio de horario y energía en edificaciones, Secretaría de Medio
+Ambiente y Recursos Naturales del Estado de Hidalgo, Zoom, 28 de marzo
+2022.
+
+PE112318 - Laboratorio modular de transferencia de calor. Jornadas de Proyectos PAPIME 2022, IER-UNAM.
+23 de junio de 2022.
+
+Monitor CO2: Prototipado y ciencia libre. Seminarios de Ciencias de la Salud de la 
+Escuela Nacional de Estudios Superiores, Unidad León, UNAM.
+22 de setiembre de 2022.
+
+Webinar Python para ingeniería, de cero a infinito. Webinar del IER-UNAM.
+24 de octubre de 2022.
+
+EnergyPlus y ciencia abierta. XXIX Simposio Peruano de Energía Solar, Chachapoyas, Perú.
+17 de agosto de 2022.
+
+ChatGPT como herramienta para la educación y la investigación, Seminario del Posgrado de 
+la Maestría en Optimización y Cómputo Aplicado, Facultad de Contaduría, Administración e Informática.
+Universidad Autónoma del Estado de Morelos.
+29 de marzo de 2023.
+
+Python como una herramienta libre para el análisis de datos. Seminario virtual del área de 
+Ingeniería en Recursos Energéticos (AIRE).
+Departamentos de Ingeniería de Procesos e Hidráulica, Universidad  Autónoma Metropolitana-Iztapalapa.
+31 de mayo de 2023.
+
+Quarto: Desafiando el dominio del PDF y LaTeX. Seminario del IER-UNAM.
+8 de septiembre de 2023.
+
+
+To code or To ChatGPT? AI Reflections. Online Education Dialogue 2023.
+8 septiembre 2023.
+
+ Monitoreo de un edificio bioclimático para ahorro de energía. Seminario de Estudiantes de Ciencias de Morelos,
+ Instituto de Ciencias Físicas, UNAM.
+ 14 de febrero de 2024.
+
+
+ Monitoreo de un edificio bioclimático para ahorro de energía. INFOTEC, UNAM.
+ 28 de febrero de 2024.
+
+Python y EnergyPlus, herramientas libres para la investigación y la evaluación de vivienda confortable y eficiente.
+Jornadas Peruanas de Energía Solar, JOPES 2024. 
+8 mayo 2024.
+
+Herramientas para una ciencia de datos reproducible y colaborativa. 2do Coloquio en Inteligencia Artificial UAEM.
+30 de mayo de 2024.
+
+Investigación en Energía en Edificaciones. Seminario del Posgrado del IER-UNAM.
+28 de octubre de 2024.
+
+Proyectos de ciencia de datos con Python. 20va semana Académica de Actualización y Desarrollo.
+Escuela de Estudios Superiores de Atlatlahucan, Subsede Totolapan. Universidad Autónoma del Estado de Morelos.
+16 de octubre de 2024.
+
+Análisis térmico y eficiencia energética en edificaciones. Dirección General de Eficiencia y Sustentabilidad Energética, SENER.
+24 de abril de 2025.
+
+Del perceptrón a las redes neuronales, live coding para conocer los principios básicos.
+Seminarios Fronteras de la Energía, IER-UNAM.
+28 de mayo de 2025.
+
+Monitoreo térmico y energético de edificaciones con software y hardware libre.
+VI Jornada Académica de la Escuela de Ingenierías y Arquitectura 2025.
+La Salle, Oaxaca.
+8 de mayo de 2025.
+
+Sostenibilidad en tiempo real: Monitoreo de edificaciones con tecnologías abiertas.
+ENES León, UNAM.
+9 de septiembre de 2025.
+
+
+ClimaLab: WebApp para el manejo de datos meteorológicos presentada a 9 voces.
+Seminarios del IER-UNAM.
+12 de septiembre de 2025.
+
+
+
+</div>
+
+
+
+
+### Mesas redondas y conversatorios
+<div class="list">
+
+Energía en edificaciones. Conversatorio de ls 22 Escuela de Investigación en Energía, IER-UNAM.
+25 de enero de 2022.
+
+Mecánica de fluidos e inteligencia artificial. Conversatorio de ls 22 Escuela de Investigación en Energía, IER-UNAM.
+28 de enero de 2022.
+
+Experiencias educativas de la IA generativa en la UNAM. I Jornada de Inteligencia Artificial en Educación UNAM 2023.
+
+Impacto de la divulgación científica en el sector energético sustentable. 10 Congreso Nacional de Estudiantes
+ de Energías Renovables 2023, IER-UNAM.
+ 6 al 10 de noviembre 2023.
+
+Resolver, visualizar y colaborar: buenas prácticas en la ciencia de datos con Python. 10 Congreso Nacional de Estudiantes
+ de Energías Renovables 2023, IER-UNAM.
+ 6 al 10 de noviembre 2023.
+
+Resolver, documentar y distribuir: haciendo reproducible la ciencia en datos.
+24 Escuela de Investigación en Energía, IER-UNAM.
+23 de enero de 2024.
+
+
+Edificaciones sostenibles: simulaciones y digitalización para la descarbonización.
+24 Escuela de Investigación en Energía, IER-UNAM.
+23 de enero de 2024.
+
+Eficiencia energética en edificaciones.
+24 Escuela de Investigación en Energía, IER-UNAM.
+23 de enero de 2024.
+
+
+</div>
+
+
+### Entrevistas 
+<div class="list">
+
+Ahorro de energía y confort térmico en edificaciones. Despertar con Ciencia, UAEM-UNAM.
+5 de marzo de 2024. Radio.
+
+Python bootcamp: Domina el manejo y visualización de series temporales. UNAM.
+20 de junio de 2024. Radio.
+
+¿Qué es la IA agéntica y cual es su impacto en la educación? Dialogos Educativos de la UNAM.
+5 de septiembre de 2025. YouTube.
+
+
+</div>
+
+
+
+
+### Conferencias magistrales
+
+<div class="list">
+
+ChatGPT como herramienta para la educación y la investigación. 5to Coloquio de la Maestría 
+en Optimización y Cómputo Aplicado de la Facultad de Contaduría, Administración e Informática.
+Universidad Autónoma del Estado de Morelos.
+4 de mayo de 2023.
+
+Herramientas para una ciencia de datos reproducible y colaborativa. 6to Coloquio de la Maestría 
+en Optimización y Cómputo Aplicado de la Facultad de Contaduría, Administración e Informática.
+Universidad Autónoma del Estado de Morelos.
+25 de abril de 2024.
+
+
+
+Desarrollos basados en hardware y software libre para la sostenibilidad. Ciencia Abierta, una ventana 
+en la ingeniería, Facultad de Ingeniería Electromecánica. Universidad de Colima.
+30 de septiembre de 2025.
+</div>

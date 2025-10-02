@@ -1,0 +1,109 @@
+## Proyectos
+
+### Responsable
+
+1.  Estudio numérico de la transferencia de calor dependiente del tiempo
+    en ventanas tomando en cuenta la transferencia de calor radiativa
+    entre el vidrio y el exterior para los diferentes climas de la
+    República Mexicana, IA101514, 2014. Responsable. En este proyecto se
+    compara el resultado de evaluar el desempeño térmico las ventanas
+    usando las normas de eficiencia energética mexicanas contra un
+    modelo dependiente del tiempo.
+
+2.  Herramienta numérica para evaluar el desempeño térmico de
+    componentes de la envolvente arquitectónica Ener-Habitat
+    (www.enerhabitat.unam.mx). Responsable.
+
+3.  *Laboratorio Modular de Transferencia de Calor* Programa de Apoyo a
+    para la Innovación y Mejoramiento de la Enseñanza (PAPIME), proyecto
+    PE112318. 2018, 2019.
+
+4.  *Laboratorio Modular de Transferencia de Calor* Programa de Apoyo a
+    para la Innovación y Mejoramiento de la Enseñanza (PAPIME), proyecto
+    PE112318. Renovación: 2020.
+
+5.  *Desarrollo de una metodología para evaluar y mejorar, el desempeño
+    energético, confort térmico y lumínico, en edificios de la UNAM* del
+    Programa de Investigación en Cambio Climático, UNAM. 2020.
+
+
+5.  *Desarrollo e implementación del monitoreo térmico, energético de edificaciones educativas* 
+    PAPIIT IT103023, aprobado con calificación de Bueno.
+
+### Participante
+
+1.  Diseño térmico de la Casa-Lomas del proyecto de Habitaly, 2010.
+    Participé en la estrategia de optimización de la captación de
+    energía solar sobre la envolvente de la casa.
+
+2.  Loft Boutique 2011 , Diseño bioclimático de una torre de
+    departamentos ubicado en Lima, Perú. Arquitectum 2011. Participé en
+    el diseño de las estrategias de ventilación cruzada y orientación.
+
+3.  Desarrollo y validación de una metodología para estimar los impactos
+    en el ahorro de energía por el uso de sistemas pasivo-constructivos
+    en la edificación para diferentes climas de México, CONACYT-SENER,
+    participante. Participé en la creación de parámetros para evaluar el
+    desempeño térmico de edificaciones, así como en el análisis de datos
+    experimentales y numéricos. Además dirigí la creación de la
+    herramienta Ener-Habitat (www.enerhabitat.unam.mx), uno de los
+    productos principales del proyecto.
+
+4.  CASA-UNAM, Solar Decathlon Europe, 2013. Asesoré a los participantes
+    del proyecto en los cálculos realizados con EnergyPlus y en el
+    diseño de la envolvente.
+
+5.  Diseño de un edificio sustentable para Forza Global Solutions, 2014.
+    Participé en la evaluación del desempeño térmico de las propuestas
+    implementadas en el diseño del edificio para medir el impacto de las
+    mismas.
+
+6.  Estudio numérico de la transferencia de calor dependiente del tiempo
+    en ventanas tomando en cuenta la transferencia de calor radiativa
+    entre el vidrio y el exterior para los diferentes climas de la
+    República Mexicana, IA101514, 2014. Responsable. En este proyecto se
+    compara el resultado de evaluar el desempeño térmico las ventanas
+    usando las normas de eficiencia energética mexicanas contra un
+    modelo dependiente del tiempo.
+
+7.  Herramienta numérica para evaluar el desempeño térmico de
+    componentes de la envolvente arquitectónica Ener-Habitat
+    (www.enerhabitat.unam.mx). Responsable.
+
+8.  *Laboratorio de Edificaciones Sustentables para desarrollo y
+    evaluación de sistemas solares pasivos P43.* CeMIE Sol. Responsable
+    del proyecto: Dr. Jorge Rojas. Mi participación ha consistido en
+    revisar que las condiciones de frontera del laboratorio sean las
+    adecuadas para poder evaluar los sistemas constructivos y en la
+    propuesta de mediciones de flujo de calor para el adecuado
+    funcionamiento del laboratorio. 2013 a 2018.
+
+9.  *Dispositivo para la enseñanza de la transferencia de calor en
+    sistemas constructivos edificaciones.* Programa de Apoyo a para la
+    Innovación y Mejoramiento de la Enseñanza (PAPIME), proyecto
+    PE101617. Responsable del proyecto: Dra. Guadalupe Huelsz. Mi
+    participación ha consistido en dirigir la construcción de los
+    primeros dos prototipos usando tecnologías abiertas. 2017 y 2018.
+
+10. *Productos de diseño industrial aplicados a la vivienda sostenible
+    del futuro.* Programa de Apoyo a Proyectos de Investigación e
+    Innovación Tecnológica (PAPIIT), proyecto IA4018160. Responsable del
+    proyecto: M. D. I. Vanessa Sattele del Centro de Investigaciones de
+    Diseño Industrial. Mi participación ha sido como asesor asistiendo
+    al taller Desarrollo y prototipado de conceptos. 2018.
+
+11. Participante en el proyecto SENER-CONACyT *Edificios demostrativos
+    de diseño bioclimático en clima cálido subhúmedo en el Instituto de
+    Energías Renovables UNAM*, proyecto icónico del Grupo de Energía del
+    IER-UNAM. En este proyecto dirijo los grupos de trabajo "Adquisición
+    y transmisión de datos" y "Simulaciones lumínicas" y participo en
+    los grupos "Plan maestro", "Simulaciones térmicas y energéticas",
+    "Evaluación térmica de sistemas constructivos", "Sensores,
+    dispositivos de adquisición y control", "Sistemas de enfriamiento" y
+    "Mediciones de viento". 2019 y 2020.
+
+12. Participante en el proyecto "Desarrollo de sistemas de calefacción
+    solar para zonas alto andinas como una opción energética sostenible
+    para mejorar la calidad de vida de los pobladores" lidereado por la
+    Dra. Mónica Gómez León de la Universidad Nacional de Ingeniería,
+    Perú. 2020 a 2022.

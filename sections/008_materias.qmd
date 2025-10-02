@@ -1,0 +1,282 @@
+## Cursos impartidos
+
+### Licenciatura
+
+1.  Algebra lineal, Licenciatura de Ingeniería en Energías Renovables,
+    IER, UNAM, 2012-2.
+
+2.  Transferencia de calor, Licenciatura de Ingeniería en Energías
+    Renovables, , IER, UNAM, 2013-2.
+
+3.  Energía en edificaciones, Licenciatura en Energías Renovables, IER,
+    UNAM, 2015-1.
+
+4.  Introducción al diseño bioclimático. Licenciatura en Energías
+    Renovables, IER, UNAM, Profesor de prácticas. Profesor de teoría:
+    Dra. Guadalupe Huelsz. 2015-2.
+
+5.  Energía en edificaciones. Licenciatura en Energías Renovables, IER,
+    UNAM, Profesor de prácticas. Profesor de teoría: Dra. Guadalupe
+    Huelsz. 2016-1.
+
+6.  Introducción al diseño bioclimático. Licenciatura en Energías
+    Renovables, IER, UNAM, Profesor de prácticas. Profesor de teoría:
+    Dra. Guadalupe Huelsz. 2016–2.
+
+7.  Energía en edificaciones. Licenciatura en Energías Renovables
+    (LIER), IER–UNAM. Profesor de prácticas. Profesor de teoría: Dr.
+    Jorge Rojas. 2017–1.
+
+8.  Introducción al diseño bioclimático. Licenciatura en Energías
+    Renovables, IER–UNAM. Profesor de prácticas. Profesor de teoría:
+    Dra. Guadalupe Huelsz. 2017–2.
+
+9.  Seminario de titulación. Licenciatura en Energías Renovables,
+    IER–UNAM. 2017–2.
+
+10. Temas selectos de tecnologías de energías renovables: Python,
+    adquisición y análisis de datos. Licenciatura en Energías
+    Renovables, IER–UNAM. Profesor de prácticas de la materia. Profesor
+    de teoría: Dr. Maximiliano Valdez. 2018–1.
+
+11. Introducción al diseño bioclimático. Licenciatura en Energías
+    Renovables, IER–UNAM. Profesor de prácticas. Profesora de teoría:
+    Dra. Guadalupe Huelsz. 2018–2.
+
+12. Energía en Edificaciones. Licenciatura en Energías Renovables,
+    IER–UNAM. Profesor de prácticas. Profesor de teoría: Dr. Jorge
+    Rojas. 2018–2.
+
+13. Introducción al diseño bioclimático. Licenciatura en Energías
+    Renovables, IER–UNAM. Profesor de prácticas. Profesora de teoría:
+    Dra. Guadalupe Huelsz. 2019–2.
+
+14. Introducción al diseño bioclimático. Licenciatura en Energías
+    Renovables, IER–UNAM. Profesor de prácticas. Profesora de teoría:
+    Dra. Guadalupe Huelsz. 2020–2.
+
+15. Energía en Edificaciones. Licenciatura en Energías Renovables,
+    IER–UNAM. 2020–2.
+
+16. Energía en Edificaciones. Licenciatura en Energías Renovables,
+    IER–UNAM. 2021–1.
+
+17. Introducción al diseño bioclimático. Licenciatura en Energías
+    Renovables, IER–UNAM. Profesor de prácticas. Profesora de teoría:
+    Dra. Guadalupe Huelsz. 2021–2.
+
+18. Temas selectos de tecnologías de energías renovables: Python,
+    adquisición y análisis de datos. Licenciatura en Energías
+    Renovables, IER–UNAM. Profesor de teoría de la materia. Profesor de
+    practicas: M. Kevin Alquicira 2021–2.
+
+19. Energía en Edificaciones. Licenciatura en Energías Renovables,
+    IER–UNAM. 2022–1.
+
+20. Introducción al diseño bioclimático. Licenciatura en Energías
+    Renovables, IER–UNAM. Profesor de prácticas. Profesora de teoría:
+    Dra. Guadalupe Huelsz. 2022–2.
+
+### Posgrado
+
+1.  Transferencia térmica en edificaciones, Maestría en Ingeniería, área
+    Energía, UNAM, 2010-2.
+
+2.  Métodos numéricos para problemas de transferencia de calor en
+    edificaciones, Maestría en Ingeniería, área Energía, UNAM, 2011-1.
+
+3.  Transferencia de calor, Propedéutico de la Maestría en Ingeniería, 2010.
+
+4.  Radiación solar y clima en edificaciones, Maestría en Ingeniería,
+    área Energía, UNAM, 2012-1.
+
+5.  Radiación solar y clima en edificaciones, Maestría en Ingeniería,
+    área Energía, UNAM, 2013-1.
+
+6.  Radiación solar y clima en edificaciones, Maestría en Ingeniería,
+    área Energía, UNAM, 2014-1.
+
+7.  Iluminación, Maestría en Ingeniería, área Energía, UNAM, 2014-2.
+
+8.  Radiación solar y clima en edificaciones, Maestría en Ingeniería,
+    área Energía, UNAM, 2015-1.
+
+9.  Sesión de tutoría III. Programa de posgrado en Ingeniería, área
+    Energía, IER–UNAM. 2016–1.
+
+10. Sesión de tutoría IV. Programa de posgrado en Ingeniería, área
+    Energía, IER–UNAM. 2016–1.
+
+11. Radiación solar y clima en edificaciones. Segundo profesor. Programa
+    de posgrado en Ingeniería, área Energía, IER–UNAM. 2016–1.
+
+12. Sesión de tutoría III. Programa de posgrado en Ingeniería, área
+    Energía, IER–UNAM. 2016–2.
+
+13. Sesión de tutoría IV. Programa de posgrado en Ingeniería, área
+    Energía, IER–UNAM. 2016–2.
+
+14. Sistemas pasivos de climatización. Programa de posgrado en
+    Ingeniería, área Energía, IER–UNAM. 2016–2.
+
+15. Sesión de tutoría III. Programa de posgrado en Ingeniería, área
+    Energía, IER–UNAM. 2017–1.
+
+16. Sesión de tutoría IV. Programa de posgrado en Ingeniería, área
+    Energía, IER–UNAM. 2017–1.
+
+17. Análisis térmico en edificaciones. Segundo profesor. Programa de
+    posgrado en Ingeniería, área Energía, IER–UNAM. 2017–1.
+
+18. Radiación solar y clima en edificaciones. Programa de posgrado en
+    Ingeniería, área Energía, IER–UNAM. 2017–2.
+
+19. Sistemas pasivos de climatización. Segundo profesor. Programa de
+    posgrado en Ingeniería, área Energía, IER–UNAM. 2017–2.
+
+20. Python, adquisición y análisis de datos. Programa de posgrado en
+    Ingeniería, área Energía, IER–UNAM. 2018–1.
+
+21. Análisis térmico en edificios. Programa de posgrado en Ingeniería,
+    área Energía, IER–UNAM. 2018–1.
+
+22. Sistemas pasivos de climatización. Programa de posgrado en
+    Ingeniería, área Energía, IER–UNAM. 2018–2.
+
+23. Radiación solar y clima en edificaciones. Segundo profesor. Programa
+    de posgrado en Ingeniería, área Energía, IER–UNAM. 2018–2.
+
+24. Python, adquisición y análisis de datos. Programa de posgrado en
+    Ingeniería, área Energía, IER–UNAM. 2019–1.
+
+25. Adquisición de datos con tecnologías abiertas. Programa de posgrado
+    en Ingeniería, área Energía, IER–UNAM. 2019–1.
+
+26. Proyecto de investigación I. Programa de posgrado en Ingeniería,
+    área Energía, IER–UNAM. 2019–2.
+
+27. Radiación solar y clima en edificaciones. Programa de posgrado en
+    Ingeniería, área Energía, IER–UNAM. 2019–2.
+
+28. Sistemas pasivos en edificaciones. Programa de posgrado en
+    Ingeniería, área Energía, IER–UNAM. 2019–2.
+
+29. Proyecto de investigación II. Programa de posgrado en Ingeniería,
+    área Energía, IER–UNAM. 2020–1.
+
+30. Proyecto de investigación III. Programa de posgrado en Ingeniería,
+    área Energía, IER–UNAM. 2020–1.
+
+31. Python, adquisición y análisis de datos. Programa de posgrado en
+    Ingeniería, área Energía, IER–UNAM. 2020–1.
+
+32. Métodos numéricos: transferencia de calor en edificaciones. Programa
+    de posgrado en Ingeniería, área Energía, IER–UNAM. 2020–1.
+
+33. Sesión de tutoría II. Programa de posgrado en Ingeniería, área
+    Energía, IER–UNAM. 2020–2.
+
+34. Sistemas pasivos en edificaciones. Programa de posgrado en
+    Ingeniería, área Energía, IER–UNAM. 2020–2.
+
+35. Energía en edificaciones. Programa de posgrado en Ingeniería, área
+    Energía, IER–UNAM. 2021–1.
+
+36. Python, adquisición y análisis de datos. Programa de posgrado en
+    Ingeniería, área Energía, IER–UNAM. Profesor de teoría de la
+    materia. Profesor de practicas: M. Kevin Alquicira 2021–2.
+
+### Talleres
+
+1.  Mecánica de fluidos usando el método de la ecuación de Boltzmann en
+    redes, en conjunto con el Dr. Raúl Rechman, Congreso Nacional de
+    Estudiantes de Energías Renovables 2015, 7 al 9 de septiembre del 2015.
+
+2.  Uso de EnergyPlus para la simulación térmica de edificaciones, en
+    conjunto con la Dra. Guadalupe Huelsz y el Dr. Jorge Rojas, Congreso
+    Nacional de Estudiantes de Energías Renovables 2015, 7 al 9 de
+    septiembre del 2015.
+
+3.  Mecánica de fluidos usando el método de la ecuación de Boltzmann en
+    redes, en conjunto con el Dr. Raúl Rechtman. Congreso Nacional de
+    Estudiantes de Energías Renovables 2016, 8 al 10 de noviembre del 2016.
+
+4.  Uso de EnergyPlus para la simulación térmica de edificaciones, en
+    conjunto con la Dra. Guadalupe Huelsz y el Dr. Jorge Rojas, Congreso
+    Nacional de Estudiantes de Energías Renovables 2016, 8 al 10 de de
+    noviembre del 2016.
+
+5.  Mecánica de fluidos usando el método de la ecuación de Boltzmann en
+    redes, en conjunto con el Dr. Raúl Rechtman, Congreso Nacional de
+    Estudiantes de Energías Renovables 2017, 7 al 9 de de noviembre del 2017.
+
+6.  Uso de EnergyPlus para la simulación térmica de edificaciones, en
+    conjunto con la Dra. Guadalupe Huelsz y el Dr. Jorge Rojas, Congreso
+    Nacional de Estudiantes de Energías Renovables 2017, 7 al 9 de de
+    noviembre del 2017.
+
+7.  Evaluación del desempeño térmico de edificaciones con simulaciones
+    numéricas, en conjunto con la Dra. Guadalupe Huelsz y el Dr. Jorge
+    Rojas, Congreso Nacional de Estudiantes de Energías Renovables 2018,
+    11 al 13 de septiembre del 2018.
+
+8.  Python para visualización y análisis de mecánica de fluidos, en
+    conjunto con el Dr. Maximiliano Valdéz, Congreso Nacional de
+    Estudiantes de Energías Renovables 2018, 11 al 13 de septiembre del 2018.
+
+9.  Evaluación del desempeño térmico de edificaciones con simulaciones
+    numéricas, en conjunto con la Dra. Guadalupe Huelsz y el Dr. Jorge
+    Rojas, Congreso Nacional de Estudiantes de Energías Renovables 2019,
+    22 al 24 de octubre del 2019.
+
+10. Taller Virtual: Comparación de datos experimentales y simulados:
+    Selección del mejor conjunto de datos simulados. Reunión
+    Internacional de Inteligencia Artificial y sus Aplicaciones 2020. 25
+    de agosto 2020.
+
+### Educación Continua
+
+1.  Taller virtual: Capacitación en el uso de OpenStudio y Energyplus.
+    Impartido a personal de la CONUEE. 13 sesiones de 2 horas cada una.
+    22 de abril al 2 de junio del 2020.
+
+2.  Simulaciones energéticas de edificaciones usando OpenStudio y
+    EnergyPlus, realizado del 6 de abril al 6 de mayo de 2021 junto con
+    la Unidad de Educación Continua del IER-UNAM, 20 horas.
+
+3.  Crash course de Python y Jupyter Notebook, realizado del 17 al 21
+    enero de 2022 junto con la Unidad de Educación Continua del
+    IER-UNAM, 20 horas.
+
+4.  Aplicaciones de Ingeniería en Python: +20 ejercicios de manejo y
+    visualización de datos, realizado del 24 al 28 enero de 2022 junto
+    con la Unidad de Educación Continua del IER-UNAM, 20 horas.
+    
+
+5.  Simulaciones energéticas de edificaciones usando OpenStudio y
+    EnergyPlus, realizado del 31 de enero al 14 de febrero de 2022 junto
+    con la Unidad de Educación Continua del IER-UNAM, 20 horas, para el Laboratorio
+     de Vivienda y Asentamientos Emergentes de la Universidad Autónoma de Guerrero.
+
+
+6.  Simulaciones energéticas de edificaciones usando OpenStudio y
+    EnergyPlus, realizado del 19 de abril al 24 de mayo de 2022 junto
+    con la Unidad de Educación Continua del IER-UNAM, 20 horas.
+
+7.  Tópicos Especiales de Ingeniería Física VII 2022-1. Simulaciones
+    energéticas con EnergyPlus. Facultad de Ciencias, Universidad
+    Nacional de Ingeniería. 2 de mayo al 26 de julio del 2022, Lima,
+    Perú.
+
+
+8.  Limpieza y exploración de datos con Python, realizado de 6 de septiembre  de 2023 junto
+    con la Unidad de Educación Continua del IER-UNAM, 2 horas.
+
+
+9.  Simulaciones energéticas de edificaciones usando OpenStudio y
+    EnergyPlus, realizado del 7 de agosto  al 7 de septiembre de 2023 junto
+    con la Unidad de Educación Continua del IER-UNAM, 20 horas.
+
+10.  Simulaciones energéticas de edificaciones usando OpenStudio y
+    EnergyPlus, realizado del 27 de mayo  al 26 de junio de 2025 junto
+    con la Unidad de Educación Continua del IER-UNAM, 20 horas.

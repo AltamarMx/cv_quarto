@@ -1,0 +1,13 @@
+## Datos personales
+
+*Nombre*  
+Guillermo Barrios del Valle.
+
+*Lugar y fecha de nacimiento*  
+Culiacán, Sinaloa, México, 10 de marzo de 1978.
+
+*RFC*  
+BAVG780310JJ3.
+
+*Correo electrónico*  
+`gbv@ier.unam.mx`

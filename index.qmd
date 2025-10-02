@@ -6,47 +6,47 @@ lang: es
 format:
   html:
     toc: true
-    toc-title: "Contenido"
+    toc-title: ""
   pdf:
     toc: true
 --- 
+   
+{{< include sections/001_dat_per.qmd >}}
 
-{{< include sections/dat_per.qmd >}}
+{{< include sections/002_f_prof.qmd >}}
 
-{{< include sections/f_prof.qmd >}}
-
-{{< include sections/distin.qmd >}}
+{{< include sections/003_distin.qmd >}}
  
-{{< include sections/articulo.qmd >}}
+{{< include sections/004_articulo.qmd >}}
 
-{{< include sections/patentes.qmd >}}
+{{< include sections/005_patentes.qmd >}}
 
-{{< include sections/estudiantes.qmd >}}
+{{< include sections/006_estudiantes.qmd >}}
 
-{{< include sections/comites_estudiantes.qmd >}}
+{{< include sections/007_comites_estudiantes.qmd >}}
 
-{{< include sections/materias.qmd >}}
+{{< include sections/008_materias.qmd >}}
 
-{{< include sections/consultorias.qmd >}}
+{{< include sections/009_consultorias.qmd >}}
 
-{{< include sections/proyectos.qmd >}}
+{{< include sections/010_proyectos.qmd >}}
 
-{{< include sections/articulo-nacional.qmd >}}
+{{< include sections/011_articulo-nacional.qmd >}}
 
-{{< include sections/capitulos.qmd >}}
+{{< include sections/012_capitulos.qmd >}}
 
-{{< include sections/divulgacion.qmd >}}
+{{< include sections/013_divulgacion.qmd >}}
 
-{{< include sections/apoyo_institucional.qmd >}}
+{{< include sections/014_apoyo_institucional.qmd >}}
 
-{{< include sections/comisiones.qmd >}}
+{{< include sections/015_comisiones.qmd >}}
 
-{{< include sections/estancia.qmd >}}
+{{< include sections/016_estancia.qmd >}}
 
-{{< include sections/citas-v02.qmd >}}
+{{< include sections/017_citas-v02.qmd >}}
 
-{{< include sections/congreso.qmd >}}
+{{< include sections/018_congreso.qmd >}}
 
-{{< include sections/seminarios.qmd >}}
+{{< include sections/019_seminarios.qmd >}}
 
-{{< include sections/arbitraj.qmd >}}
+{{< include sections/020_arbitraj.qmd >}}
