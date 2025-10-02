@@ -1,0 +1,61 @@
+## Arbitrajes
+
+::: {.list}
+
+1. International Journal of Thermal Sciences, octubre 2005.
+2. International Journal of Heat and Mass Transfer, junio 2006.
+3. International Journal of Heat and Mass Transfer, Diciembre 2007.
+4. International Journal of Heat and Mass Transfer, Febrero 2008.
+5. Solar Energy, Octubre 2010.
+6. Applied Mathematical Modelling, Agosto 2012.
+7. Energy and Buildings, Septiembre 2012.
+8. Energy and Buildings, Julio de 2013.
+9. Energy and Buildings, Septiembre de 2013.
+10. Applied Thermal Engineering, Febrero de 2014.
+11. Energy and Buildings, Febrero de 2014.
+12. Energy and Buildings, Junio de 2014.
+13. Energy and Buildings, Octubre de 2014.
+14. Energy and Buildings, Noviembre de 2014.
+15. Applied Thermal Engineering, Febrero de 2016.
+16. Applied Thermal Engineering, Mayo de 2016.
+17. Applied Thermal Engineering, Mayo de 2016.
+18. Solar Energy, julio de 2016.
+19. Revista Mexicana de Física, agosto 2016.
+20. Energy, septiembre de 2016.
+21. Applied Thermal Engineering, septiembre de 2016.
+22. Applied Thermal Engineering, octubre de 2016.
+23. Energy and Buildings, noviembre de 2016.
+24. Energy and Buildings, diciembre de 2016.
+25. Energy and Buildings, abril de 2017.
+26. Applied Thermal Engineering, julio de 2017.
+27. Applied Thermal Engineering, diciembre de 2017.
+28. Energy and Buildings, julio de 2017.
+29. Journal of Building Engineering, septiembre de 2019.
+30. Energy, julio 2020.
+31. Energy & Buildings, abril 2021.
+32. Energy & Buildings, mayo 2021.
+33. Computational Thermal Sciences, mayo 2021.
+34. Applied Thermal Engineering, agosto 2021.
+35. Building Research & Information, octubre 2021.
+36. Energy & Buildings, febrero 2022.
+37. SNES, ANES, abril 2022.
+38. Energy & Buildings, octubre 2022.
+39. Energy & Buildings, abril 2023.
+40. SNES, ANES, mayo 2023.
+41. Journal of Building Engineering, mayo 2022.
+42. Energy & Buildings, junio 2022.
+43. Journal of Building Engineering, septiembre 2023.
+44. Journal of Building Physics, septiembre 2023.
+45. Journal of Building Engineering, octubre 2023.
+46. Energy & Building, agosto 2023.
+47. Energy & Building, noviembre 2023.
+48. Journal of Building Engineering, marzo 2024.
+49. Energy & Buildings, marzo 2024.
+50. HardwareX, abril 2024.
+51. Legado y arquitectura, agosto 2024.
+52. Revista Mexicana de Física, agosto 2024.
+53. HardwareX, diciembre 2024.
+54. HardwareX, febrero 2025.
+
+:::
+

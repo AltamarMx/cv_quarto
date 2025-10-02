@@ -82,7 +82,7 @@
 
 
 
-### LatinIndex
+### Latindex
 
 1. G. Huelsz Lesbros, J. Rojas, G. Álvarez-Almeida, G. Barrios.
     Importance of taking into account the thermal mass in simulations

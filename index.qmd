@@ -11,42 +11,42 @@ format:
     toc: true
 --- 
   
-{{< include sections/001_dat_per.qmd >}}
+{{< include sections/001_datos_personales.qmd >}}
 
-{{< include sections/002_f_prof.qmd >}}
+{{< include sections/002_formacion_profesional.qmd >}}
 
-{{< include sections/003_distin.qmd >}}
+{{< include sections/003_distinciones_promociones.qmd >}}
  
-{{< include sections/004_articulo.qmd >}}
+{{< include sections/004_articulos_revistas.qmd >}}
 
-{{< include sections/005_patentes.qmd >}}
+{{< include sections/005_patentes_otorgadas.qmd >}}
 
-{{< include sections/006_estudiantes.qmd >}}
+{{< include sections/006_estudiantes_dirigidos.qmd >}}
 
-{{< include sections/007_comites_estudiantes.qmd >}}
+{{< include sections/007_comites_tesis.qmd >}}
 
-{{< include sections/008_materias.qmd >}}
+{{< include sections/008_cursos_impartidos.qmd >}}
 
-{{< include sections/009_consultorias.qmd >}}
+{{< include sections/009_consultorias_profesionales.qmd >}}
 
-{{< include sections/010_proyectos.qmd >}}
+{{< include sections/010_proyectos_investigacion.qmd >}}
 
-{{< include sections/011_articulo-nacional.qmd >}}
+{{< include sections/011_memorias_congresos_nacionales.qmd >}}
 
-{{< include sections/012_capitulos.qmd >}}
+{{< include sections/012_capitulos_libros.qmd >}}
 
-{{< include sections/013_divulgacion.qmd >}}
+{{< include sections/013_divulgacion_cientifica.qmd >}}
 
-{{< include sections/014_apoyo_institucional.qmd >}}
+{{< include sections/014_apoyos_institucionales.qmd >}}
 
-{{< include sections/015_comisiones.qmd >}}
+{{< include sections/015_comisiones_academicas.qmd >}}
 
-{{< include sections/016_estancia.qmd >}}
+{{< include sections/016_estancias_academicas.qmd >}}
 
-{{< include sections/017_citas-v02.qmd >}}
+{{< include sections/017_citas_bibliometricas.qmd >}}
 
-{{< include sections/018_congreso.qmd >}}
+{{< include sections/018_trabajos_congresos.qmd >}}
 
-{{< include sections/019_seminarios.qmd >}}
+{{< include sections/019_seminarios_conferencias.qmd >}}
 
-{{< include sections/020_arbitraj.qmd >}}
+{{< include sections/020_arbitrajes.qmd >}}
