@@ -44,7 +44,7 @@ if is_html_output:
     try:
         top_n = int(raw_top)
     except (TypeError, ValueError):
-        top_n = 80
+        top_n = 30
     top_n = max(1, top_n)
 
     section_dir = Path("sections")
@@ -63,7 +63,7 @@ if is_html_output:
             "han", "son", "fue", "ser", "entre", "sobre", "desde", "sin", "años", "año", "huelsz",
             "universidad", "r", 'rojas', 'and','marzo','instituto',  
             "unam", "g", "ier", "barrios", "dr", "dra", "nacional", "octubre", "área", "programa", "septiembre", "of", "posgrado", "mayo", "autónoma", "proyecto", "transferencia", "abril", "agosto", "febrero", "análisis", "profesor", "examen", "enero", "congreso", "buildings", "junio", "usando", "sistemas", "guadalupe", "seminario", "u", "método", "div", "estado", "jorge", "the", "evaluar", "campo", "conocimiento", "diciembre", "journal", "ener", "habitat", "educación", "fecha", "julio", "rechtman", "for", "e", "grado",'j','presentado','mx','in','presentado','no','i','guanajuato',
-            'to','class'
+            'to','class','noviembre','m','uso','list','semana','apoyo','miembro',
             
         }
         filtered_tokens = [token for token in tokens if token not in stopwords_es]
