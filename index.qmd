@@ -3,6 +3,11 @@ title: "Currículum Vitae"
 author: "Guillermo Barrios del Valle"
 date: today
 lang: es
+language:
+  es:
+    title-block-author-single: "Autor"
+    title-block-published: "Fecha de actualización"
+
 params:
   top_words: 80
 format:
