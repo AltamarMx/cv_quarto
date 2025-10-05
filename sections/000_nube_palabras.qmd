@@ -169,8 +169,10 @@ if is_html_output:
             for word, count in freq:
                 size = scale(count, 1.0, 3.2)
                 alpha = scale(count, 0.55, 0.95)
+                tooltip = f"{count} veces escrita"
                 spans.append(
-                    f"<span class=\"word-cloud-term\" style=\"font-size: {size:.2f}rem; --wc-alpha: {alpha:.2f};\">"
+                    f"<span class=\"word-cloud-term\" style=\"font-size: {size:.2f}rem; --wc-alpha: {alpha:.2f};\" "
+                    f"title=\"{html.escape(tooltip)}\" aria-label=\"{html.escape(tooltip)}\" data-count=\"{count}\">"
                     f"{html.escape(word)}</span>"
                 )
 
