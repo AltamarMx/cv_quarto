@@ -3,6 +3,8 @@ title: "Currículum Vitae"
 author: "Guillermo Barrios del Valle"
 date: today
 lang: es
+params:
+  top_words: 80
 format:
   html:
     toc: true
@@ -10,6 +12,93 @@ format:
   pdf:
     toc: true
 --- 
+```{python}
+#| label: word-cloud
+#| echo: false
+#| results: asis
+#| message: false
+#| warning: false
+
+from collections import Counter
+from pathlib import Path
+from IPython.display import HTML, display
+import html
+import re
+
+is_html_output = True
+try:
+    import quarto
+
+    is_html_output = bool(quarto.doc.is_format("html"))
+except Exception:
+    is_html_output = True
+
+if is_html_output:
+    quarto_params = globals().get("params")
+    if isinstance(quarto_params, dict):
+        raw_top = quarto_params.get("top_words", 80)
+    elif quarto_params is not None:
+        raw_top = getattr(quarto_params, "top_words", 80)
+    else:
+        raw_top = 80
+    try:
+        top_n = int(raw_top)
+    except (TypeError, ValueError):
+        top_n = 80
+    top_n = max(1, top_n)
+
+    section_dir = Path("sections")
+    section_files = sorted(section_dir.glob("*.qmd"))
+
+    if section_files:
+        content = " ".join(
+            path.read_text(encoding="utf-8", errors="ignore") for path in section_files
+        )
+        tokens = re.split(r"[^A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+", content.lower())
+        tokens = [token for token in tokens if token]
+
+        stopwords_es = {
+            "de", "la", "el", "y", "en", "del", "los", "las", "para", "con", "por", "un",
+            "una", "que", "se", "al", "a", "o", "su", "sus", "como", "más", "mas", "es", "ha",
+            "han", "son", "fue", "ser", "entre", "sobre", "desde", "sin", "años", "año", "huelsz",
+            "universidad", "r", 'rojas', 'and','marzo','instituto',  
+            "unam", "g", "ier", "barrios", "dr", "dra", "nacional", "octubre", "área", "programa", "septiembre", "of", "posgrado", "mayo", "autónoma", "proyecto", "transferencia", "abril", "agosto", "febrero", "análisis", "profesor", "examen", "enero", "congreso", "buildings", "junio", "usando", "sistemas", "guadalupe", "seminario", "u", "método", "div", "estado", "jorge", "the", "evaluar", "campo", "conocimiento", "diciembre", "journal", "ener", "habitat", "educación", "fecha", "julio", "rechtman", "for", "e", "grado",'j','presentado','mx','in','presentado','no','i','guanajuato',
+            'to','class'
+            
+        }
+        filtered_tokens = [token for token in tokens if token not in stopwords_es]
+
+        if filtered_tokens:
+            freq = Counter(filtered_tokens).most_common(top_n)
+            counts = [count for _, count in freq]
+            min_count, max_count = min(counts), max(counts)
+
+            def scale(value, target_min, target_max):
+                if max_count == min_count:
+                    return (target_min + target_max) / 2
+                return target_min + (value - min_count) * (target_max - target_min) / (max_count - min_count)
+
+            spans = []
+            for word, count in freq:
+                size = scale(count, 1.0, 3.2)
+                alpha = scale(count, 0.55, 0.95)
+                spans.append(
+                    f"<span style=\"font-size: {size:.2f}rem; color: rgba(25, 33, 56, {alpha:.2f}); letter-spacing: 0.04em;\">"
+                    f"{html.escape(word)}</span>"
+                )
+
+            if spans:
+                html_output = [
+                    "<section class=\"word-cloud\" style=\"margin: 0 0 2.5rem 0;\">",
+                    "<div style=\"display: flex; flex-direction: column; align-items: center; gap: 1.5rem;\">",
+                    "<p style=\"text-transform: uppercase; letter-spacing: 0.18em; font-size: 0.72rem; color: #6c757d; margin: 0;\">Nube de palabras</p>",
+                    "<div style=\"display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: center; padding: 2rem 2.5rem; border-radius: 1.25rem; background: linear-gradient(135deg, #f8f9fb, #ffffff); box-shadow: 0 12px 28px rgba(15, 23, 42, 0.10); max-width: 900px;\">",
+                    "\n".join(spans),
+                    "</div></div></section>",
+                ]
+                display(HTML("\n".join(html_output))) 
+```
+
   
 {{< include sections/001_datos_personales.qmd >}}
 
