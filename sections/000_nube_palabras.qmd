@@ -1,0 +1,189 @@
+
+```{=html}
+<style>
+:root {
+  --wc-summary-color: #6c757d;
+  --wc-summary-bg: rgba(255, 255, 255, 0.4);
+}
+
+.word-cloud-section {
+  margin: 0 0 2.5rem 0;
+}
+
+.word-cloud-details {
+  border-radius: 1.25rem;
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.10);
+  background: linear-gradient(135deg, #f8f9fb, #ffffff);
+  overflow: hidden;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+}
+
+.word-cloud-details > summary {
+  list-style: none;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.75rem;
+  color: var(--wc-summary-color);
+  padding: 1.35rem 1.85rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: var(--wc-summary-bg);
+}
+
+.word-cloud-details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.word-cloud-details > summary::after {
+  content: "\2212";
+  margin-left: auto;
+  font-size: 1rem;
+  line-height: 1;
+  color: inherit;
+}
+
+.word-cloud-details:not([open]) > summary::after {
+  content: "+";
+}
+
+.word-cloud-body {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+  padding: 1.85rem 2.25rem 2.25rem;
+}
+
+.word-cloud-term {
+  letter-spacing: 0.04em;
+  color: rgba(25, 33, 56, var(--wc-alpha, 0.75));
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.word-cloud-term:hover {
+  transform: translateY(-4px);
+}
+
+body.quarto-dark {
+  --wc-summary-color: #e2e8f0;
+  --wc-summary-bg: rgba(15, 23, 42, 0.55);
+}
+
+body.quarto-dark .word-cloud-details {
+  background: linear-gradient(135deg, rgba(30, 41, 59, 0.95), rgba(30, 58, 83, 0.85));
+  box-shadow: 0 16px 32px rgba(2, 6, 23, 0.45);
+  border: 1px solid rgba(148, 163, 184, 0.22);
+}
+
+body.quarto-dark .word-cloud-body {
+  border-top: 1px solid rgba(148, 163, 184, 0.15);
+}
+
+body.quarto-dark .word-cloud-term {
+  color: rgba(241, 245, 249, var(--wc-alpha, 0.85));
+}
+
+.word-cloud-term:focus {
+  outline: 2px dashed rgba(15, 23, 42, 0.35);
+  outline-offset: 3px;
+}
+
+body.quarto-dark .word-cloud-term:focus {
+  outline-color: rgba(148, 163, 184, 0.6);
+}
+</style>
+```
+
+```{python}
+#| label: word-cloud
+#| echo: false
+#| results: asis
+#| message: false
+#| warning: false
+
+from collections import Counter
+from pathlib import Path
+from IPython.display import HTML, display
+import html
+import re
+
+is_html_output = True
+try:
+    import quarto
+
+    is_html_output = bool(quarto.doc.is_format("html"))
+except Exception:
+    is_html_output = True
+
+if is_html_output:
+    quarto_params = globals().get("params")
+    if isinstance(quarto_params, dict):
+        raw_top = quarto_params.get("top_words", 80)
+    elif quarto_params is not None:
+        raw_top = getattr(quarto_params, "top_words", 80)
+    else:
+        raw_top = 80
+    try:
+        top_n = int(raw_top)
+    except (TypeError, ValueError):
+        top_n = 30
+    top_n = max(1, top_n)
+
+    section_dir = Path("sections")
+    section_files = [
+        path for path in sorted(section_dir.glob("0*.qmd"))
+        if path.name != "000_nube_palabras.qmd"
+    ]
+
+    if section_files:
+        content = " ".join(
+            path.read_text(encoding="utf-8", errors="ignore") for path in section_files
+        )
+        tokens = re.split(r"[^A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+", content.lower())
+        tokens = [token for token in tokens if token]
+
+        stopwords_es = {
+            "de", "la", "el", "y", "en", "del", "los", "las", "para", "con", "por", "un",
+            "una", "que", "se", "al", "a", "o", "su", "sus", "como", "más", "mas", "es", "ha",
+            "han", "son", "fue", "ser", "entre", "sobre", "desde", "sin", "años", "año", "huelsz",
+            "universidad", "r", 'rojas', 'and','marzo','instituto',  
+            "unam", "g", "ier", "barrios", "dr", "dra", "nacional", "octubre", "área", "programa", "septiembre", "of", "posgrado", "mayo", "autónoma", "proyecto", "transferencia", "abril", "agosto", "febrero", "análisis", "profesor", "examen", "enero", "congreso", "buildings", "junio", "usando", "sistemas", "guadalupe", "seminario", "u", "método", "div", "estado", "jorge", "the", "evaluar", "campo", "conocimiento", "diciembre", "journal", "ener", "habitat", "educación", "fecha", "julio", "rechtman", "for", "e", "grado",'j','presentado','mx','in','presentado','no','i','guanajuato',
+            'to','class','noviembre','m','uso','list','semana','apoyo','miembro'
+            
+        }
+        filtered_tokens = [token for token in tokens if token not in stopwords_es]
+
+        if filtered_tokens:
+            freq = Counter(filtered_tokens).most_common(top_n)
+            counts = [count for _, count in freq]
+            min_count, max_count = min(counts), max(counts)
+
+            def scale(value, target_min, target_max):
+                if max_count == min_count:
+                    return (target_min + target_max) / 2
+                return target_min + (value - min_count) * (target_max - target_min) / (max_count - min_count)
+
+            spans = []
+            for word, count in freq:
+                size = scale(count, 1.0, 3.2)
+                alpha = scale(count, 0.55, 0.95)
+                spans.append(
+                    f"<span class=\"word-cloud-term\" style=\"font-size: {size:.2f}rem; --wc-alpha: {alpha:.2f};\">"
+                    f"{html.escape(word)}</span>"
+                )
+
+            if spans:
+                html_output = [
+                    "<section class=\"word-cloud-section\">",
+                    "<details class=\"word-cloud-details\" open>",
+                    "<summary>Nube de palabras</summary>",
+                    "<div class=\"word-cloud-body\">",
+                    "\n".join(spans),
+                    "</div>",
+                    "</details>",
+                    "</section>",
+                ]
+                display(HTML("\n".join(html_output))) 
+```
