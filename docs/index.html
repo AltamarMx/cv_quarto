@@ -417,10 +417,36 @@ ul.task-list li input[type="checkbox"] {
   letter-spacing: 0.04em;
   color: rgba(25, 33, 56, var(--wc-alpha, 0.75));
   transition: transform 0.2s ease, color 0.2s ease;
+  position: relative;
 }
 
 .word-cloud-term:hover {
   transform: translateY(-4px);
+}
+
+.word-cloud-term::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 0.35rem);
+  left: 50%;
+  transform: translate(-50%, -4px);
+  background: rgba(15, 23, 42, 0.9);
+  color: #f8fafc;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.35rem;
+  white-space: nowrap;
+  font-size: 0.7rem;
+  letter-spacing: 0.02em;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  z-index: 1;
+}
+
+.word-cloud-term:hover::after,
+.word-cloud-term:focus::after {
+  opacity: 1;
+  transform: translate(-50%, -8px);
 }
 
 body.quarto-dark {
@@ -442,6 +468,11 @@ body.quarto-dark .word-cloud-term {
   color: rgba(241, 245, 249, var(--wc-alpha, 0.85));
 }
 
+body.quarto-dark .word-cloud-term::after {
+  background: rgba(148, 163, 184, 0.9);
+  color: #0f172a;
+}
+
 .word-cloud-term:focus {
   outline: 2px dashed rgba(15, 23, 42, 0.35);
   outline-offset: 3px;
@@ -457,86 +488,46 @@ body.quarto-dark .word-cloud-term:focus {
 <details class="word-cloud-details" open="">
 <summary>Nube de palabras</summary>
 <div class="word-cloud-body">
-<span class="word-cloud-term" style="font-size: 3.20rem; --wc-alpha: 0.95;">energía</span>
-<span class="word-cloud-term" style="font-size: 2.67rem; --wc-alpha: 0.85;">ingeniería</span>
-<span class="word-cloud-term" style="font-size: 2.36rem; --wc-alpha: 0.80;">energías</span>
-<span class="word-cloud-term" style="font-size: 2.32rem; --wc-alpha: 0.79;">renovables</span>
-<span class="word-cloud-term" style="font-size: 2.26rem; --wc-alpha: 0.78;">edificaciones</span>
-<span class="word-cloud-term" style="font-size: 1.63rem; --wc-alpha: 0.66;">térmico</span>
-<span class="word-cloud-term" style="font-size: 1.59rem; --wc-alpha: 0.66;">méxico</span>
-<span class="word-cloud-term" style="font-size: 1.57rem; --wc-alpha: 0.65;">diseño</span>
-<span class="word-cloud-term" style="font-size: 1.51rem; --wc-alpha: 0.64;">calor</span>
-<span class="word-cloud-term" style="font-size: 1.51rem; --wc-alpha: 0.64;">solar</span>
-<span class="word-cloud-term" style="font-size: 1.49rem; --wc-alpha: 0.64;">datos</span>
-<span class="word-cloud-term" style="font-size: 1.49rem; --wc-alpha: 0.64;">energy</span>
-<span class="word-cloud-term" style="font-size: 1.45rem; --wc-alpha: 0.63;">investigación</span>
-<span class="word-cloud-term" style="font-size: 1.45rem; --wc-alpha: 0.63;">licenciatura</span>
-<span class="word-cloud-term" style="font-size: 1.43rem; --wc-alpha: 0.63;">maestría</span>
-<span class="word-cloud-term" style="font-size: 1.39rem; --wc-alpha: 0.62;">morelos</span>
-<span class="word-cloud-term" style="font-size: 1.35rem; --wc-alpha: 0.61;">thermal</span>
-<span class="word-cloud-term" style="font-size: 1.27rem; --wc-alpha: 0.60;">building</span>
-<span class="word-cloud-term" style="font-size: 1.27rem; --wc-alpha: 0.60;">bioclimático</span>
-<span class="word-cloud-term" style="font-size: 1.26rem; --wc-alpha: 0.60;">desempeño</span>
-<span class="word-cloud-term" style="font-size: 1.24rem; --wc-alpha: 0.59;">ciencia</span>
-<span class="word-cloud-term" style="font-size: 1.22rem; --wc-alpha: 0.59;">engineering</span>
-<span class="word-cloud-term" style="font-size: 1.20rem; --wc-alpha: 0.59;">boltzmann</span>
-<span class="word-cloud-term" style="font-size: 1.20rem; --wc-alpha: 0.59;">envolvente</span>
-<span class="word-cloud-term" style="font-size: 1.18rem; --wc-alpha: 0.58;">energyplus</span>
-<span class="word-cloud-term" style="font-size: 1.16rem; --wc-alpha: 0.58;">python</span>
-<span class="word-cloud-term" style="font-size: 1.14rem; --wc-alpha: 0.58;">redes</span>
-<span class="word-cloud-term" style="font-size: 1.14rem; --wc-alpha: 0.58;">evaluación</span>
-<span class="word-cloud-term" style="font-size: 1.14rem; --wc-alpha: 0.58;">simulaciones</span>
-<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;">facultad</span>
-<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;">natural</span>
-<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;">ecuación</span>
-<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;">ciencias</span>
-<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;">desarrollo</span>
-<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;">fluidos</span>
-<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;">tiempo</span>
-<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;">estudiantes</span>
-<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;">arquitectura</span>
-<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;">teoría</span>
-<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;">herramienta</span>
-<span class="word-cloud-term" style="font-size: 1.10rem; --wc-alpha: 0.57;">centro</span>
-<span class="word-cloud-term" style="font-size: 1.10rem; --wc-alpha: 0.57;">clima</span>
-<span class="word-cloud-term" style="font-size: 1.10rem; --wc-alpha: 0.57;">applied</span>
-<span class="word-cloud-term" style="font-size: 1.10rem; --wc-alpha: 0.57;">escuela</span>
-<span class="word-cloud-term" style="font-size: 1.10rem; --wc-alpha: 0.57;">térmica</span>
-<span class="word-cloud-term" style="font-size: 1.10rem; --wc-alpha: 0.57;">prácticas</span>
-<span class="word-cloud-term" style="font-size: 1.08rem; --wc-alpha: 0.56;">física</span>
-<span class="word-cloud-term" style="font-size: 1.08rem; --wc-alpha: 0.56;">adquisición</span>
-<span class="word-cloud-term" style="font-size: 1.08rem; --wc-alpha: 0.56;">unidad</span>
-<span class="word-cloud-term" style="font-size: 1.08rem; --wc-alpha: 0.56;">conjunto</span>
-<span class="word-cloud-term" style="font-size: 1.06rem; --wc-alpha: 0.56;">mecánica</span>
-<span class="word-cloud-term" style="font-size: 1.06rem; --wc-alpha: 0.56;">estudio</span>
-<span class="word-cloud-term" style="font-size: 1.06rem; --wc-alpha: 0.56;">energética</span>
-<span class="word-cloud-term" style="font-size: 1.04rem; --wc-alpha: 0.56;">mexicana</span>
-<span class="word-cloud-term" style="font-size: 1.04rem; --wc-alpha: 0.56;">inteligencia</span>
-<span class="word-cloud-term" style="font-size: 1.04rem; --wc-alpha: 0.56;">artificial</span>
-<span class="word-cloud-term" style="font-size: 1.04rem; --wc-alpha: 0.56;">edificio</span>
-<span class="word-cloud-term" style="font-size: 1.04rem; --wc-alpha: 0.56;">continua</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">ingeniero</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">doctorado</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">aire</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">revista</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">constructivos</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">tecnológica</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">visualización</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">eficiencia</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">confort</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">dependiente</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">radiación</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">horas</span>
-<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;">comisión</span>
-<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;">tesis</span>
-<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;">laboratorio</span>
-<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;">departamento</span>
-<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;">energético</span>
-<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;">heat</span>
-<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;">transfer</span>
-<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;">muros</span>
-<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;">ia</span>
-<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;">edificación</span>
+<span class="word-cloud-term" style="font-size: 3.20rem; --wc-alpha: 0.95;" title="120 veces escrita" aria-label="120 veces escrita" data-count="120" data-tooltip="120 veces escrita">energía</span>
+<span class="word-cloud-term" style="font-size: 2.64rem; --wc-alpha: 0.85;" title="93 veces escrita" aria-label="93 veces escrita" data-count="93" data-tooltip="93 veces escrita">ingeniería</span>
+<span class="word-cloud-term" style="font-size: 2.31rem; --wc-alpha: 0.79;" title="77 veces escrita" aria-label="77 veces escrita" data-count="77" data-tooltip="77 veces escrita">energías</span>
+<span class="word-cloud-term" style="font-size: 2.27rem; --wc-alpha: 0.78;" title="75 veces escrita" aria-label="75 veces escrita" data-count="75" data-tooltip="75 veces escrita">renovables</span>
+<span class="word-cloud-term" style="font-size: 2.20rem; --wc-alpha: 0.77;" title="72 veces escrita" aria-label="72 veces escrita" data-count="72" data-tooltip="72 veces escrita">edificaciones</span>
+<span class="word-cloud-term" style="font-size: 1.54rem; --wc-alpha: 0.65;" title="40 veces escrita" aria-label="40 veces escrita" data-count="40" data-tooltip="40 veces escrita">térmico</span>
+<span class="word-cloud-term" style="font-size: 1.50rem; --wc-alpha: 0.64;" title="38 veces escrita" aria-label="38 veces escrita" data-count="38" data-tooltip="38 veces escrita">méxico</span>
+<span class="word-cloud-term" style="font-size: 1.48rem; --wc-alpha: 0.64;" title="37 veces escrita" aria-label="37 veces escrita" data-count="37" data-tooltip="37 veces escrita">diseño</span>
+<span class="word-cloud-term" style="font-size: 1.42rem; --wc-alpha: 0.63;" title="34 veces escrita" aria-label="34 veces escrita" data-count="34" data-tooltip="34 veces escrita">calor</span>
+<span class="word-cloud-term" style="font-size: 1.42rem; --wc-alpha: 0.63;" title="34 veces escrita" aria-label="34 veces escrita" data-count="34" data-tooltip="34 veces escrita">solar</span>
+<span class="word-cloud-term" style="font-size: 1.39rem; --wc-alpha: 0.62;" title="33 veces escrita" aria-label="33 veces escrita" data-count="33" data-tooltip="33 veces escrita">datos</span>
+<span class="word-cloud-term" style="font-size: 1.39rem; --wc-alpha: 0.62;" title="33 veces escrita" aria-label="33 veces escrita" data-count="33" data-tooltip="33 veces escrita">energy</span>
+<span class="word-cloud-term" style="font-size: 1.35rem; --wc-alpha: 0.61;" title="31 veces escrita" aria-label="31 veces escrita" data-count="31" data-tooltip="31 veces escrita">investigación</span>
+<span class="word-cloud-term" style="font-size: 1.35rem; --wc-alpha: 0.61;" title="31 veces escrita" aria-label="31 veces escrita" data-count="31" data-tooltip="31 veces escrita">licenciatura</span>
+<span class="word-cloud-term" style="font-size: 1.33rem; --wc-alpha: 0.61;" title="30 veces escrita" aria-label="30 veces escrita" data-count="30" data-tooltip="30 veces escrita">maestría</span>
+<span class="word-cloud-term" style="font-size: 1.29rem; --wc-alpha: 0.60;" title="28 veces escrita" aria-label="28 veces escrita" data-count="28" data-tooltip="28 veces escrita">morelos</span>
+<span class="word-cloud-term" style="font-size: 1.25rem; --wc-alpha: 0.60;" title="26 veces escrita" aria-label="26 veces escrita" data-count="26" data-tooltip="26 veces escrita">thermal</span>
+<span class="word-cloud-term" style="font-size: 1.17rem; --wc-alpha: 0.58;" title="22 veces escrita" aria-label="22 veces escrita" data-count="22" data-tooltip="22 veces escrita">building</span>
+<span class="word-cloud-term" style="font-size: 1.17rem; --wc-alpha: 0.58;" title="22 veces escrita" aria-label="22 veces escrita" data-count="22" data-tooltip="22 veces escrita">bioclimático</span>
+<span class="word-cloud-term" style="font-size: 1.15rem; --wc-alpha: 0.58;" title="21 veces escrita" aria-label="21 veces escrita" data-count="21" data-tooltip="21 veces escrita">desempeño</span>
+<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;" title="20 veces escrita" aria-label="20 veces escrita" data-count="20" data-tooltip="20 veces escrita">ciencia</span>
+<span class="word-cloud-term" style="font-size: 1.10rem; --wc-alpha: 0.57;" title="19 veces escrita" aria-label="19 veces escrita" data-count="19" data-tooltip="19 veces escrita">engineering</span>
+<span class="word-cloud-term" style="font-size: 1.08rem; --wc-alpha: 0.57;" title="18 veces escrita" aria-label="18 veces escrita" data-count="18" data-tooltip="18 veces escrita">boltzmann</span>
+<span class="word-cloud-term" style="font-size: 1.08rem; --wc-alpha: 0.57;" title="18 veces escrita" aria-label="18 veces escrita" data-count="18" data-tooltip="18 veces escrita">envolvente</span>
+<span class="word-cloud-term" style="font-size: 1.06rem; --wc-alpha: 0.56;" title="17 veces escrita" aria-label="17 veces escrita" data-count="17" data-tooltip="17 veces escrita">energyplus</span>
+<span class="word-cloud-term" style="font-size: 1.04rem; --wc-alpha: 0.56;" title="16 veces escrita" aria-label="16 veces escrita" data-count="16" data-tooltip="16 veces escrita">python</span>
+<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;" title="15 veces escrita" aria-label="15 veces escrita" data-count="15" data-tooltip="15 veces escrita">redes</span>
+<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;" title="15 veces escrita" aria-label="15 veces escrita" data-count="15" data-tooltip="15 veces escrita">evaluación</span>
+<span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;" title="15 veces escrita" aria-label="15 veces escrita" data-count="15" data-tooltip="15 veces escrita">simulaciones</span>
+<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;" title="14 veces escrita" aria-label="14 veces escrita" data-count="14" data-tooltip="14 veces escrita">facultad</span>
+<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;" title="14 veces escrita" aria-label="14 veces escrita" data-count="14" data-tooltip="14 veces escrita">natural</span>
+<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;" title="14 veces escrita" aria-label="14 veces escrita" data-count="14" data-tooltip="14 veces escrita">ecuación</span>
+<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;" title="14 veces escrita" aria-label="14 veces escrita" data-count="14" data-tooltip="14 veces escrita">ciencias</span>
+<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;" title="14 veces escrita" aria-label="14 veces escrita" data-count="14" data-tooltip="14 veces escrita">desarrollo</span>
+<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;" title="14 veces escrita" aria-label="14 veces escrita" data-count="14" data-tooltip="14 veces escrita">fluidos</span>
+<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;" title="14 veces escrita" aria-label="14 veces escrita" data-count="14" data-tooltip="14 veces escrita">tiempo</span>
+<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;" title="14 veces escrita" aria-label="14 veces escrita" data-count="14" data-tooltip="14 veces escrita">estudiantes</span>
+<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;" title="14 veces escrita" aria-label="14 veces escrita" data-count="14" data-tooltip="14 veces escrita">arquitectura</span>
+<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;" title="14 veces escrita" aria-label="14 veces escrita" data-count="14" data-tooltip="14 veces escrita">teoría</span>
+<span class="word-cloud-term" style="font-size: 1.00rem; --wc-alpha: 0.55;" title="14 veces escrita" aria-label="14 veces escrita" data-count="14" data-tooltip="14 veces escrita">herramienta</span>
 </div>
 </details>
 </section>

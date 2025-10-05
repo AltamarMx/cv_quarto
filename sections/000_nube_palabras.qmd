@@ -60,10 +60,36 @@
   letter-spacing: 0.04em;
   color: rgba(25, 33, 56, var(--wc-alpha, 0.75));
   transition: transform 0.2s ease, color 0.2s ease;
+  position: relative;
 }
 
 .word-cloud-term:hover {
   transform: translateY(-4px);
+}
+
+.word-cloud-term::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 0.35rem);
+  left: 50%;
+  transform: translate(-50%, -4px);
+  background: rgba(15, 23, 42, 0.9);
+  color: #f8fafc;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.35rem;
+  white-space: nowrap;
+  font-size: 0.7rem;
+  letter-spacing: 0.02em;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  z-index: 1;
+}
+
+.word-cloud-term:hover::after,
+.word-cloud-term:focus::after {
+  opacity: 1;
+  transform: translate(-50%, -8px);
 }
 
 body.quarto-dark {
@@ -83,6 +109,11 @@ body.quarto-dark .word-cloud-body {
 
 body.quarto-dark .word-cloud-term {
   color: rgba(241, 245, 249, var(--wc-alpha, 0.85));
+}
+
+body.quarto-dark .word-cloud-term::after {
+  background: rgba(148, 163, 184, 0.9);
+  color: #0f172a;
 }
 
 .word-cloud-term:focus {
@@ -124,7 +155,7 @@ if is_html_output:
     elif quarto_params is not None:
         raw_top = getattr(quarto_params, "top_words", 80)
     else:
-        raw_top = 80
+        raw_top = 40
     try:
         top_n = int(raw_top)
     except (TypeError, ValueError):
@@ -169,10 +200,11 @@ if is_html_output:
             for word, count in freq:
                 size = scale(count, 1.0, 3.2)
                 alpha = scale(count, 0.55, 0.95)
-                tooltip = f"{count} veces escrita"
+                tooltip = f"{count} {'vez' if count == 1 else 'veces'} escrita"
                 spans.append(
                     f"<span class=\"word-cloud-term\" style=\"font-size: {size:.2f}rem; --wc-alpha: {alpha:.2f};\" "
-                    f"title=\"{html.escape(tooltip)}\" aria-label=\"{html.escape(tooltip)}\" data-count=\"{count}\">"
+                    f"title=\"{html.escape(tooltip)}\" aria-label=\"{html.escape(tooltip)}\" "
+                    f"data-count=\"{count}\" data-tooltip=\"{html.escape(tooltip)}\">"
                     f"{html.escape(word)}</span>"
                 )
 
