@@ -234,6 +234,10 @@
     Internacional de Inteligencia Artificial y sus Aplicaciones 2020. 25
     de agosto 2020.
 
+11. Del prompt al plan — Diseña actividades con IA en 90 minutos
+    XXI Encuentro Regional AIESAD 2025.
+    21 de octubre 2025. 
+
 ### Educación Continua
 
 1.  Taller virtual: Capacitación en el uso de OpenStudio y Energyplus.
