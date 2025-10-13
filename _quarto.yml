@@ -3,4 +3,35 @@ project:
   output-dir: docs
 
 website:
-  title: "Curriculum Vitae"
+  title: "[Guillermo Barrios](https://altamarmx.github.io/)"
+  navbar:
+    left:
+      - text: "Artículos"
+        href: https://altamarmx.github.io/articulos.html
+      - text: "Estudiantes"
+        menu:
+          - text: "Studs graduades"
+            href: https://altamarmx.github.io/estudiantes_graduades.html
+          - text: "Studs en proceso"
+            href: https://altamarmx.github.io/estudiantes_proceso.html
+      - text: "Cursos"
+        href: https://altamarmx.github.io/cursos.html
+      - text: "Repositorios"
+        href: https://altamarmx.github.io/repositorios.html
+      - text: "CV"
+        href: https://altamarmx.github.io/cv_quarto/
+
+format:
+  html:
+    theme:
+      light:
+        - lux
+      dark:
+        - slate
+    code-copy: true
+    toc: true
+    include-in-header:
+      - text: |
+          <script src="https://kit.fontawesome.com/TU_KIT.js" crossorigin="anonymous"></script>
+
+lang: es

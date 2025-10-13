@@ -15,8 +15,8 @@ format:
     toc: true
     toc-title: ""
     theme:
-      light: flatly
-      dark: darkly
+      light: lux
+      dark: slate
     toggle: true
   pdf:
     toc: true
