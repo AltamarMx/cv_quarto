@@ -236,7 +236,13 @@
 
 11. Del prompt al plan — Diseña actividades con IA en 90 minutos
     XXI Encuentro Regional AIESAD 2025.
-    21 de octubre 2025. 
+    22 de octubre 2025, 2 horas.
+
+12. Bases para la ciencia de datos moderna con Python,
+    Congreso Nacional de Estudiantes de Energías Renovables 2025.
+    Temixco, Morelos del 20 al 23 de octubre 2025.
+    8 horas total.
+
 
 ### Educación Continua
 
