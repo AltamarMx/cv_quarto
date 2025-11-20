@@ -9,5 +9,8 @@ Culiacán, Sinaloa, México, 10 de marzo de 1978.
 *RFC*  
 BAVG780310JJ3.
 
+*CURP*
+BAVG780310HSLRLL03
+
 *Correo electrónico*  
 `gbv@ier.unam.mx`
