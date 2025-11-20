@@ -21,6 +21,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -564,11 +599,11 @@ body.quarto-dark .word-cloud-term:focus {
 <span class="word-cloud-term" style="font-size: 1.17rem; --wc-alpha: 0.58;" title="22 veces escrita" aria-label="22 veces escrita" data-count="22" data-tooltip="22 veces escrita">bioclimático</span>
 <span class="word-cloud-term" style="font-size: 1.15rem; --wc-alpha: 0.58;" title="21 veces escrita" aria-label="21 veces escrita" data-count="21" data-tooltip="21 veces escrita">desempeño</span>
 <span class="word-cloud-term" style="font-size: 1.15rem; --wc-alpha: 0.58;" title="21 veces escrita" aria-label="21 veces escrita" data-count="21" data-tooltip="21 veces escrita">ciencia</span>
+<span class="word-cloud-term" style="font-size: 1.12rem; --wc-alpha: 0.57;" title="20 veces escrita" aria-label="20 veces escrita" data-count="20" data-tooltip="20 veces escrita">python</span>
 <span class="word-cloud-term" style="font-size: 1.10rem; --wc-alpha: 0.57;" title="19 veces escrita" aria-label="19 veces escrita" data-count="19" data-tooltip="19 veces escrita">engineering</span>
 <span class="word-cloud-term" style="font-size: 1.08rem; --wc-alpha: 0.57;" title="18 veces escrita" aria-label="18 veces escrita" data-count="18" data-tooltip="18 veces escrita">boltzmann</span>
 <span class="word-cloud-term" style="font-size: 1.08rem; --wc-alpha: 0.57;" title="18 veces escrita" aria-label="18 veces escrita" data-count="18" data-tooltip="18 veces escrita">envolvente</span>
 <span class="word-cloud-term" style="font-size: 1.06rem; --wc-alpha: 0.56;" title="17 veces escrita" aria-label="17 veces escrita" data-count="17" data-tooltip="17 veces escrita">energyplus</span>
-<span class="word-cloud-term" style="font-size: 1.06rem; --wc-alpha: 0.56;" title="17 veces escrita" aria-label="17 veces escrita" data-count="17" data-tooltip="17 veces escrita">python</span>
 <span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;" title="15 veces escrita" aria-label="15 veces escrita" data-count="15" data-tooltip="15 veces escrita">redes</span>
 <span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;" title="15 veces escrita" aria-label="15 veces escrita" data-count="15" data-tooltip="15 veces escrita">estudiantes</span>
 <span class="word-cloud-term" style="font-size: 1.02rem; --wc-alpha: 0.55;" title="15 veces escrita" aria-label="15 veces escrita" data-count="15" data-tooltip="15 veces escrita">evaluación</span>
@@ -594,11 +629,12 @@ body.quarto-dark .word-cloud-term:focus {
 Guillermo Barrios del Valle.</p>
 <p><em>Lugar y fecha de nacimiento</em><br>
 Culiacán, Sinaloa, México, 10 de marzo de 1978.</p>
-<p><em>RFC</em><br>
-BAVG780310JJ3.</p>
-<p><em>CURP</em> BAVG780310HSLRLL03</p>
-<p><em>Correo electrónico</em><br>
-<code>gbv@ier.unam.mx</code></p>
+<p><em>RFC</em></p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>BAVG780310JJ3</span></code><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><em>CURP</em></p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>BAVG780310HSLRLL03</span></code><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><em>Correo electrónico</em></p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>gbv<span class="op">@</span>ier.unam.mx</span></code><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 <section id="formación-profesional" class="level2">
 <h2 class="anchored" data-anchor-id="formación-profesional">Formación profesional</h2>

@@ -7,10 +7,16 @@ Guillermo Barrios del Valle.
 Culiacán, Sinaloa, México, 10 de marzo de 1978.
 
 *RFC*  
-BAVG780310JJ3.
+```python
+BAVG780310JJ3
+```
 
 *CURP*
+```python
 BAVG780310HSLRLL03
+```
 
 *Correo electrónico*  
-`gbv@ier.unam.mx`
+```python
+gbv@ier.unam.mx
+```
