@@ -78,6 +78,11 @@
 18. J. Landa, G. Barrios, G. Huelsz, IoT smartwatch based on open technologies
     for the collection of thermal comfort data, HardwareX, 2025.
 
+19. C. Monreal Jiménez, A. Jiménez-Godoy, G. Barrios, R. Jäckel, A. Ramos Blanco,
+    G. Gutiérrez-Urueta, Generalization of Machine Learning Surrogates Across
+    Building Orientation and Roof Solar Absorptance in Naturally Ventilated
+    Dwellings. Buildings, **16**, 1245, 2026.
+
 
 
 
