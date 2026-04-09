@@ -89,6 +89,11 @@
     Transient Modeling and Performance Comparison. Resources, **15**, 51, 2026.
     doi: 10.3390/resources15040051
 
+21. S. Gomez-Sanchez, O. Rodríguez-Hernández, G. Barrios, Analysis of the
+    relationship between the regional electricity demand and the Universal
+    Thermal Climate Index in Mexico. Energy for Sustainable Development,
+    **92**, 101968, 2026. doi: 10.1016/j.esd.2026.101968
+
 
 
 
