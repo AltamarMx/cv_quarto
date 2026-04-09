@@ -83,6 +83,12 @@
     Building Orientation and Roof Solar Absorptance in Naturally Ventilated
     Dwellings. Buildings, **16**, 1245, 2026.
 
+20. C. Monreal Jiménez, J. Rojas Ricca, R. Jäckel, J.A. Araoz Ramos, G. Barrios,
+    A. Ramos Blanco, G. Gutiérrez-Urueta, Enhancing Solar Thermal Resource
+    Continuity in Mexican Climates Using PCM-Based Thermal Energy Storage:
+    Transient Modeling and Performance Comparison. Resources, **15**, 51, 2026.
+    doi: 10.3390/resources15040051
+
 
 
 
