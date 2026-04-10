@@ -57,6 +57,7 @@
 53. HardwareX, diciembre 2024.
 54. HardwareX, febrero 2025.
 55. Legado de Arquitectura y Diseño, febrero 2026.
+56. Energy and Buildings, enero 2026.
 
 :::
 
