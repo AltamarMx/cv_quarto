@@ -58,7 +58,11 @@
 52. Sostenibilidad en tiempo real: Monitoreo de edificaciones con tecnologías abiertas. ENES León, UNAM. 9 de septiembre de 2025.
 53. ClimaLab: WebApp para el manejo de datos meteorológicos presentada a 9 voces. Seminarios del IER-UNAM. 12 de septiembre de 2025.
 
-54. Demanda eléctrica y confort térmico en México: análisis regional con datos abiertos y live coding.
+54. IAGen como asistente personal de docentes y estudiantes. XVI Coloquio Nacional de Educación
+    Media Superior a Distancia, "El bachillerato a distancia un factor de transformación social",
+    UAGro. 12 de noviembre de 2025.
+
+55. Demanda eléctrica y confort térmico en México: análisis regional con datos abiertos y live coding.
     Programa de Seminarios del Posgrado en Ingeniería Química, Universidad de Guanajuato. 27 de febrero de 2026.
 
 
