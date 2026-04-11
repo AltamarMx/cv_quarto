@@ -29,6 +29,10 @@
     Mecánica industrial, Universidad Tecnológica Emiliano Zapata del
     Estado de Morelos. Graduado en mayo de 2019.
 
+5.  Daniel Alejandro Tijera Roman, Implementación de un monitor de energía con tableros
+    interactivos, Técnico Superior Universitario en Mecatrónica, área
+    Automatización, Universidad Tecnológica Emiliano Zapata del Estado de Morelos. Graduado en agosto de 2025.
+
 
 ## Servicio Social
 
