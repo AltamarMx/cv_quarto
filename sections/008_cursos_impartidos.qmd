@@ -261,6 +261,9 @@
 1.  Visualización de datos con Plotly. Hackods UNAM 2026, IER-IGF-UNAM.
     19 de marzo de 2026.
 
+1.  Quarto para tableros de datos. Hackods UNAM 2026, IER-IGF-UNAM.
+    26 de marzo de 2026.
+
 
 
 
