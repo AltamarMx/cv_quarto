@@ -258,6 +258,9 @@
 16. Fotografía con Celular. Comisión Interna para la Igualdad de Género,
     IER-UNAM, Temixco, Morelos. 28 de noviembre de 2025.
 
+1.  Visualización de datos con Plotly. Hackods UNAM 2026, IER-IGF-UNAM.
+    19 de marzo de 2026.
+
 
 
 
