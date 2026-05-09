@@ -261,6 +261,9 @@
 1.  Instalación de ecosistema para ciencia libre. Hackods UNAM 2026,
     IER-IGF-UNAM. 5 de marzo de 2026.
 
+1.  Manejo de datos con Pandas. Hackods UNAM 2026, IER-IGF-UNAM.
+    12 de marzo de 2026.
+
 1.  Visualización de datos con Plotly. Hackods UNAM 2026, IER-IGF-UNAM.
     19 de marzo de 2026.
 
