@@ -66,3 +66,7 @@
 5.  Laura Sofía Hoyos Gómez, estudiante de la Facultad de Ingeniería y
     Arquitectura del Departamento de Eléctrica y Electrónica y
     Computación de la Universidad Nacional de Colombia, mayo 2021.
+
+1.  Xicoténcatl Saucedo Anaya, estudiante del Programa de Doctorado en
+    Ciencia y Tecnología de la Luz y la Materia, Universidad Autónoma
+    de Zacatecas. Codirector de tesis, semestre agosto-diciembre 2025.
