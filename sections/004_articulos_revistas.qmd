@@ -94,6 +94,12 @@
     Thermal Climate Index in Mexico. Energy for Sustainable Development,
     **92**, 101968, 2026. doi: 10.1016/j.esd.2026.101968
 
+1.  M.V. Cruz-Salas, E. Puerto, J. Rojas, G. Barrios, G. Huelsz, G. Ramírez,
+    Mist evaporative cooling system with natural ventilation in a semi-outdoor
+    environment: Theoretical models, experiments, and thermal simulations.
+    Energy and Buildings, **366**, 117700, 2026.
+    doi: 10.1016/j.enbuild.2026.117700
+
 
 
 
