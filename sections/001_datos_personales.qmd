@@ -6,7 +6,10 @@ Guillermo Barrios del Valle.
 *Lugar y fecha de nacimiento*  
 Culiacán, Sinaloa, México, 10 de marzo de 1978.
 
-*RFC*  
+*ORCID*
+[0000-0003-2738-297X](https://orcid.org/0000-0003-2738-297X)
+
+*RFC*
 ```python
 BAVG780310JJ3
 ```
