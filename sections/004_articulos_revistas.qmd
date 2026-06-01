@@ -125,6 +125,10 @@
 4. G. Barrios. Enseñar a programar en la era de la IA generativa. Revista
     mexicana de Bachillerato a distancia, 34(17), 2025.
 
+1. H. Ceballos, MI. Sahagún, G. Huelsz, G. Barrios. Evaluación de estrategias
+    para mejorar eficiencia energética en una vivienda de interés social en
+    Tijuana. Legado, **20** (38), 2025. doi: 10.36677/legado.v20i38.23214
+
 ### UNAM
 
 1. Grupo de trabajo de Inteligencia Artificial Generativa de la UNAM.
