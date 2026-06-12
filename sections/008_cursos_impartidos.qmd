@@ -186,6 +186,10 @@
     Ingeniería, área Energía, IER–UNAM. Profesor de teoría de la
     materia. Profesor de practicas: M. Kevin Alquicira 2021–2.
 
+1.  Temas selectos de fuentes renovables: Estadística, detección de
+    anomalías e imputación de series temporales. Maestría en Ingeniería,
+    área Energía, IER–UNAM. 2 alumnos inscritos, 3 horas por semana. 2026–2.
+
 ### Talleres
 
 1.  Mecánica de fluidos usando el método de la ecuación de Boltzmann en
