@@ -139,6 +139,10 @@ de datos para energías renovables. 19 de marzo de 2024 al 20 de noviembre de 20
     Energías Renovables, Universidad Nacional Autónoma de México. Desarrollo e implementación con tecnologías
     libres de un dispositivo portatil para evaluar el confort térmico, lumínico y acústico en interiores. Septiembre 2025.
 
+1.  Ingeniera en Energía Debra Paola López Domínguez, Universidad Politécnica del Estado de Guerrero.
+    Desarrollo e implementación del monitoreo térmico, energético de edificaciones educativas.
+    Asesor externo. Febrero 2024.
+
 ### Maestría
 
 1.  Maestro en Ingeniería Jorge Miguel Casas Arredondo, alumno del plan
