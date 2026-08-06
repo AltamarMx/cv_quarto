@@ -127,6 +127,10 @@ de datos para energías renovables. 19 de marzo de 2024 al 20 de noviembre de 20
     México. Meteorological data imputation and its impact on EnergyPlus simulations. 
     Septiembre 2022.
 
+1.  Ingeniera en Energía Debra Paola López Domínguez, Universidad Politécnica del Estado de Guerrero.
+    Desarrollo e implementación del monitoreo térmico, energético de edificaciones educativas.
+    Asesor externo. Febrero 2024.
+
 13. Arquitecta Ana Patricia Escobedo González, Escuela de Arquitectura Unidad Torreón,
     Universidad Autónoma de Coahuila. Análisis de la iluminación natural en aulas escolares
     y eficiencia energética, caso de estudio: Escuela de Arquitectura U.L.
@@ -138,10 +142,6 @@ de datos para energías renovables. 19 de marzo de 2024 al 20 de noviembre de 20
 11. Ingeniero  en Energías Renovables  con Mención Honorífica José Ramón Hernández Aguilar, Instituto de
     Energías Renovables, Universidad Nacional Autónoma de México. Desarrollo e implementación con tecnologías
     libres de un dispositivo portatil para evaluar el confort térmico, lumínico y acústico en interiores. Septiembre 2025.
-
-1.  Ingeniera en Energía Debra Paola López Domínguez, Universidad Politécnica del Estado de Guerrero.
-    Desarrollo e implementación del monitoreo térmico, energético de edificaciones educativas.
-    Asesor externo. Febrero 2024.
 
 ### Maestría
 
