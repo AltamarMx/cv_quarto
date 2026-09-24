@@ -4,6 +4,8 @@
 
 
 
+1. Diana Fernández Duque, Itzel Aranguren, Guillermo Barrios del Valle. Slime Mold Algorithm. En: A. J. Kulkarni (ed.), Encyclopedia of Engineering Optimization and Heuristics, Springer Nature Singapore, 2026, pp. 1-7. https://doi.org/10.1007/978-981-96-8165-5_90-1
+
 G. Huelsz, G. Barrios, R. Rechtman, J. Rojas. Importancia del análisis
 de transferencia de calor dependiente del tiempo en la evaluación del
 desempeño térmico de la envolvente de una edificación. Anuario 2010
