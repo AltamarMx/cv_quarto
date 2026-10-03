@@ -330,3 +330,9 @@
 10.  Simulaciones energéticas de edificaciones usando OpenStudio y
     EnergyPlus, realizado del 27 de mayo  al 26 de junio de 2025 junto
     con la Unidad de Educación Continua del IER-UNAM, 20 horas.
+
+1.  Programa especializado "Python: de cero a analista de datos",
+    plataforma Coursera, UNAM. Tres cursos en línea con ejercicios
+    autoevaluables en libretas de Jupyter, con más de 10 mil personas
+    inscritas.
+    <https://www.coursera.org/specializations/python-cero-analista>
