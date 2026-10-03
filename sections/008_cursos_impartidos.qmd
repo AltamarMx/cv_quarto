@@ -341,3 +341,9 @@
 1.  Curso "Python, de cero a infinitos", plataforma Renovando Talentos,
     Unidad de Educación Continua del IER-UNAM.
     <https://renovandotalentos.ier.unam.mx/enrol/index.php?id=25>
+
+1.  Curso "Python para ingeniería", plataforma Renovando Talentos,
+    Unidad de Educación Continua del IER-UNAM. Curso 100% en línea, de
+    aproximadamente 12 semanas (3-5 horas por semana), con constancia al
+    finalizar. Impartido en conjunto con Kevin Alquicira Hernández, Ana
+    Gabriela Álvarez Almeida y Diego Arturo Canul Reyes.
