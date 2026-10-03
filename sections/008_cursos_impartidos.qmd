@@ -337,3 +337,7 @@
     explorador de datos" (16 horas) y "Python: de explorador de datos a
     analista" (20 horas). Más de 10 mil personas inscritas.
     <https://www.coursera.org/specializations/python-cero-analista>
+
+1.  Curso "Python, de cero a infinitos", plataforma Renovando Talentos,
+    Unidad de Educación Continua del IER-UNAM.
+    <https://renovandotalentos.ier.unam.mx/enrol/index.php?id=25>
