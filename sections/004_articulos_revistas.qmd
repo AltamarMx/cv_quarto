@@ -100,6 +100,11 @@
     Energy and Buildings, **366**, 117700, 2026.
     doi: 10.1016/j.enbuild.2026.117700
 
+1.  O. Ascencio López, G. Barrios, J.F. Sotelo Leyva, Neutral temperature,
+    cool preference and the limits of adaptive-slope estimation in naturally
+    ventilated social housing under low outdoor variability, Mexico. Energy
+    and Buildings, **373**, 118386, 2026. doi: 10.1016/j.enbuild.2026.118386
+
 
 
 
