@@ -64,6 +64,20 @@ format:
     Ingeniería, Campo de Conocimiento Energía, Diseño Bioclimático,
     UNAM. Fecha de examen marzo de 2025.
 
+## Cursos impartidos (últimos 2 años)
+
+**Licenciatura**
+
+1.  Introducción al diseño bioclimático. Licenciatura en Energías
+    Renovables, IER–UNAM. Profesor de taller, 2 horas por semana,
+    12 alumnos inscritos. 2026–2.
+
+**Posgrado**
+
+1.  Temas selectos de fuentes renovables: Estadística, detección de
+    anomalías e imputación de series temporales. Maestría en Ingeniería,
+    área Energía, IER–UNAM. 2 alumnos inscritos, 3 horas por semana. 2026–2.
+
 ## Datos personales
 
 **Nombre:** Guillermo Barrios del Valle.
@@ -74,4 +88,8 @@ format:
 
 **Correo electrónico:** gbv@ier.unam.mx
 
-**Afiliación:** Instituto de Energías Renovables (IER-UNAM).
+**Adscripción:** Instituto de Energías Renovables, Universidad Nacional Autónoma de México (IER-UNAM).
+
+**Puesto:** Investigador Titular A Definitivo de tiempo completo, línea de investigación de análisis térmico de edificaciones.
+
+**Sistema Nacional de Investigadores (SNI):** Nivel 1.
