@@ -1,0 +1,77 @@
+---
+title: "Currículum Vitae — Resumen"
+author: "Guillermo Barrios del Valle"
+date: today
+lang: es
+language:
+  es:
+    title-block-author-single: "Autor"
+    title-block-published: "Fecha de actualización"
+format:
+  pdf:
+    toc: false
+    geometry:
+      - margin=2.2cm
+    fontsize: 11pt
+---
+
+## Artículos en revistas indizadas (últimos 4 años)
+
+1.  G. Ramírez-Zúñiga, G. Barrios, G. Huelsz Lesbros, V. Sattele.
+    Didactic device for teaching the importance of the time-dependent
+    model for the heat transfer calculations in constructive systems of
+    buildings. Journal of Building Physics, 2022.
+
+1.  J. Landa, G. Barrios, G. Huelsz, IoT smartwatch based on open technologies
+    for the collection of thermal comfort data, HardwareX, 2025.
+
+1.  C. Monreal Jiménez, A. Jiménez-Godoy, G. Barrios, R. Jäckel, A. Ramos Blanco,
+    G. Gutiérrez-Urueta, Generalization of Machine Learning Surrogates Across
+    Building Orientation and Roof Solar Absorptance in Naturally Ventilated
+    Dwellings. Buildings, **16**, 1245, 2026.
+
+1.  C. Monreal Jiménez, J. Rojas Ricca, R. Jäckel, J.A. Araoz Ramos, G. Barrios,
+    A. Ramos Blanco, G. Gutiérrez-Urueta, Enhancing Solar Thermal Resource
+    Continuity in Mexican Climates Using PCM-Based Thermal Energy Storage:
+    Transient Modeling and Performance Comparison. Resources, **15**, 51, 2026.
+    doi: 10.3390/resources15040051
+
+1.  S. Gomez-Sanchez, O. Rodríguez-Hernández, G. Barrios, Analysis of the
+    relationship between the regional electricity demand and the Universal
+    Thermal Climate Index in Mexico. Energy for Sustainable Development,
+    **92**, 101968, 2026. doi: 10.1016/j.esd.2026.101968
+
+1.  M.V. Cruz-Salas, E. Puerto, J. Rojas, G. Barrios, G. Huelsz, G. Ramírez,
+    Mist evaporative cooling system with natural ventilation in a semi-outdoor
+    environment: Theoretical models, experiments, and thermal simulations.
+    Energy and Buildings, **366**, 117700, 2026.
+    doi: 10.1016/j.enbuild.2026.117700
+
+1.  O. Ascencio López, G. Barrios, J.F. Sotelo Leyva, Neutral temperature,
+    cool preference and the limits of adaptive-slope estimation in naturally
+    ventilated social housing under low outdoor variability, Mexico. Energy
+    and Buildings, **373**, 118386, 2026. doi: 10.1016/j.enbuild.2026.118386
+
+## Estudiantes de maestría graduados (últimos 4 años)
+
+1.  Maestro en Ingeniería, José Ignacio Maciel Hernández, Evaluation of the NZEB
+    definitions in a new building at IER-UNAM, Programa de Maestría en
+    Ingeniería, Campo de Conocimiento Energía, Diseño Bioclimático,
+    UNAM. Fecha de examen 27 de junio de 2024.
+
+1.  Maestro en Ingeniería, Julio César Landa López, Reloj inteligente IoT basado en tecnologías abiertas para
+    la recopilación de datos de confort térmico, Programa de Maestría en
+    Ingeniería, Campo de Conocimiento Energía, Diseño Bioclimático,
+    UNAM. Fecha de examen marzo de 2025.
+
+## Datos personales
+
+**Nombre:** Guillermo Barrios del Valle.
+
+**Lugar y fecha de nacimiento:** Culiacán, Sinaloa, México, 10 de marzo de 1978.
+
+**ORCID:** [0000-0003-2738-297X](https://orcid.org/0000-0003-2738-297X)
+
+**Correo electrónico:** gbv@ier.unam.mx
+
+**Afiliación:** Instituto de Energías Renovables (IER-UNAM).
