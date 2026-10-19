@@ -15,6 +15,26 @@ format:
     fontsize: 11pt
 ---
 
+## Datos personales
+
+**Nombre:** Guillermo Barrios del Valle.
+
+**Lugar y fecha de nacimiento:** Culiacán, Sinaloa, México, 10 de marzo de 1978.
+
+**ORCID:** [0000-0003-2738-297X](https://orcid.org/0000-0003-2738-297X)
+
+**CURP:** BAVG780310HSLRLL03
+
+**RFC:** BAVG780310JJ3
+
+**Correo electrónico:** gbv@ier.unam.mx
+
+**Adscripción:** Instituto de Energías Renovables, Universidad Nacional Autónoma de México (IER-UNAM).
+
+**Puesto:** Investigador Titular A Definitivo de tiempo completo, línea de investigación de análisis térmico de edificaciones.
+
+**Sistema Nacional de Investigadores (SNI):** Nivel 1.
+
 ## Artículos en revistas indizadas (últimos 4 años)
 
 1.  G. Ramírez-Zúñiga, G. Barrios, G. Huelsz Lesbros, V. Sattele.
@@ -52,18 +72,6 @@ format:
     ventilated social housing under low outdoor variability, Mexico. Energy
     and Buildings, **373**, 118386, 2026. doi: 10.1016/j.enbuild.2026.118386
 
-## Estudiantes de maestría graduados (últimos 4 años)
-
-1.  Maestro en Ingeniería, José Ignacio Maciel Hernández, Evaluation of the NZEB
-    definitions in a new building at IER-UNAM, Programa de Maestría en
-    Ingeniería, Campo de Conocimiento Energía, Diseño Bioclimático,
-    UNAM. Fecha de examen 27 de junio de 2024.
-
-1.  Maestro en Ingeniería, Julio César Landa López, Reloj inteligente IoT basado en tecnologías abiertas para
-    la recopilación de datos de confort térmico, Programa de Maestría en
-    Ingeniería, Campo de Conocimiento Energía, Diseño Bioclimático,
-    UNAM. Fecha de examen marzo de 2025.
-
 ## Cursos impartidos (últimos 2 años)
 
 **Licenciatura**
@@ -78,18 +86,14 @@ format:
     anomalías e imputación de series temporales. Maestría en Ingeniería,
     área Energía, IER–UNAM. 2 alumnos inscritos, 3 horas por semana. 2026–2.
 
-## Datos personales
+## Estudiantes de maestría graduados (últimos 4 años)
 
-**Nombre:** Guillermo Barrios del Valle.
+1.  Maestro en Ingeniería, José Ignacio Maciel Hernández, Evaluation of the NZEB
+    definitions in a new building at IER-UNAM, Programa de Maestría en
+    Ingeniería, Campo de Conocimiento Energía, Diseño Bioclimático,
+    UNAM. Fecha de examen 27 de junio de 2024.
 
-**Lugar y fecha de nacimiento:** Culiacán, Sinaloa, México, 10 de marzo de 1978.
-
-**ORCID:** [0000-0003-2738-297X](https://orcid.org/0000-0003-2738-297X)
-
-**Correo electrónico:** gbv@ier.unam.mx
-
-**Adscripción:** Instituto de Energías Renovables, Universidad Nacional Autónoma de México (IER-UNAM).
-
-**Puesto:** Investigador Titular A Definitivo de tiempo completo, línea de investigación de análisis térmico de edificaciones.
-
-**Sistema Nacional de Investigadores (SNI):** Nivel 1.
+1.  Maestro en Ingeniería, Julio César Landa López, Reloj inteligente IoT basado en tecnologías abiertas para
+    la recopilación de datos de confort térmico, Programa de Maestría en
+    Ingeniería, Campo de Conocimiento Energía, Diseño Bioclimático,
+    UNAM. Fecha de examen marzo de 2025.
