@@ -72,9 +72,16 @@ format:
     ventilated social housing under low outdoor variability, Mexico. Energy
     and Buildings, **373**, 118386, 2026. doi: 10.1016/j.enbuild.2026.118386
 
-## Cursos impartidos (últimos 2 años)
+## Cursos impartidos (últimos 4 años)
 
 **Licenciatura**
+
+1.  Energía en Edificaciones. Licenciatura en Energías Renovables,
+    IER–UNAM. 2022–1.
+
+1.  Introducción al diseño bioclimático. Licenciatura en Energías
+    Renovables, IER–UNAM. Profesor de prácticas. Profesora de teoría:
+    Dra. Guadalupe Huelsz. 2022–2.
 
 1.  Introducción al diseño bioclimático. Licenciatura en Energías
     Renovables, IER–UNAM. Profesor de taller, 2 horas por semana,
