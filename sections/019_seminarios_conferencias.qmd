@@ -163,4 +163,9 @@ Wearables, IoT y agentes de IA. XXII Semana Nacional de Ingeniería Electrónica
 Iberoamericana de Ingeniería Electrónica (SENIE 2026). Universidad Autónoma Metropolitana
 Unidad Azcapotzalco y Universidad Tecnológica Emiliano Zapata del Estado de Morelos.
 14 al 16 de octubre de 2026.
+
+Vibe coding para cálculos de energía: del archivo climático al reporte reproducible.
+6° Coloquio de Energía: Transición Energética y Acceso Universal a la Energía Sostenible,
+Tecnológico Nacional de México, Instituto Tecnológico de La Laguna, Torreón, Coahuila.
+28 de septiembre de 2026.
 </div>
