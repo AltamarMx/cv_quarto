@@ -155,7 +155,12 @@ Universidad Autónoma del Estado de Morelos.
 
 
 
-Desarrollos basados en hardware y software libre para la sostenibilidad. Ciencia Abierta, una ventana 
+Desarrollos basados en hardware y software libre para la sostenibilidad. Ciencia Abierta, una ventana
 en la ingeniería, Facultad de Ingeniería Electromecánica. Universidad de Colima.
 30 de septiembre de 2025.
+
+Wearables, IoT y agentes de IA. XXII Semana Nacional de Ingeniería Electrónica y VII Semana
+Iberoamericana de Ingeniería Electrónica (SENIE 2026). Universidad Autónoma Metropolitana
+Unidad Azcapotzalco y Universidad Tecnológica Emiliano Zapata del Estado de Morelos.
+14 al 16 de octubre de 2026.
 </div>
