@@ -3,6 +3,11 @@
 <div class="list">
 
 
+R. Rentería Ramírez, G. Barrios, C. Álvarez Macías, F. Jurado Zamarripa.
+Analysis of the impact of roof construction design on the thermal
+exchange and electrical performance of monofacial photovoltaic modules,
+2025 IEEE 53rd Photovoltaic Specialists Conference (PVSC), 2025. DOI:
+10.1109/PVSC59419.2025.11133295.
 
 F.Z. Sierra, E. Ramos, <u>G.Barrios</u>, M. Vargas Design and test of an
 apparatus for natural convective cylindrical flows in static and
